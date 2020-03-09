@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target xml:lang="hi" state="needs-translation">Line {0}, Column {1} ({2} selected)</target>
+        <target xml:lang="hi" state="translated">Meg Test Suggestion</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
