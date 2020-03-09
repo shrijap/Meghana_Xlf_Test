@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="proxy">
         <source xml:lang="en">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</source>
-        <target xml:lang="hi" state="needs-translation">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</target>
+        <target xml:lang="hi" state="translated">Meg testing new suggestion that will be approved by MOR</target>
       </trans-unit>
       <trans-unit id="strictSSL">
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
