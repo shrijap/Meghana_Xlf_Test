@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="strictSSL">
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
-        <target xml:lang="hi" state="needs-translation">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</target>
+        <target xml:lang="hi" state="translated">Testing translation which will be different from MOR suggestion</target>
       </trans-unit>
       <trans-unit id="proxyAuthorization">
         <source xml:lang="en">The value to send as the `Proxy-Authorization` header for every network request.</source>
