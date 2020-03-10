@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="strictSSL">
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
-        <target xml:lang="hi" state="final">Meghana testing the final from MOR but with a different community suggestions</target>
+        <target xml:lang="hi" state="final">Meghana testing the final from MOR but with a different community suggestions..</target>
       </trans-unit>
       <trans-unit id="proxyAuthorization">
         <source xml:lang="en">The value to send as the `Proxy-Authorization` header for every network request.</source>
