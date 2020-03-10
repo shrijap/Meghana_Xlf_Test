@@ -14,6 +14,9 @@
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
         <target xml:lang="hi" state="final">Meghana testing the final from MOR but with a different community suggestions..</target>
         <alt-trans>
+          <target xml:lang="hi">नियंत्रित करता है कि क्या प्रॉक्सी सर्वर प्रमाणपत्र को प्रदान किए गए CAs की सूची के साथ सत्यापित किया जाना चाहिए.</target>
+        </alt-trans>
+        <alt-trans>
           <target xml:lang="hi">Testing translation which will be different from MOR suggestion</target>
         </alt-trans>
       </trans-unit>
@@ -23,7 +26,7 @@
       </trans-unit>
       <trans-unit id="proxySupportOff">
         <source xml:lang="en">Disable proxy support for extensions.</source>
-        <target xml:lang="hi" state="needs-translation">Disable proxy support for extensions.</target>
+        <target xml:lang="hi" state="translated">एक्सटेंशन के लिए प्रॉक्सी समर्थन अक्षम करें.</target>
       </trans-unit>
       <trans-unit id="proxySupportOn">
         <source xml:lang="en">Enable proxy support for extensions.</source>
