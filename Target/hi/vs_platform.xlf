@@ -14,9 +14,9 @@
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
         <target xml:lang="hi" state="translated">Testing translation which will be different from MOR suggestion</target>
       </trans-unit>
-      <trans-unit id="proxyAuthorization">
+      <trans-unit id="proxyAuthorization" approved="yes">
         <source xml:lang="en">The value to send as the `Proxy-Authorization` header for every network request.</source>
-        <target xml:lang="hi" state="needs-translation">The value to send as the `Proxy-Authorization` header for every network request.</target>
+        <target xml:lang="hi" state="final">Translation approved from Crowdin UI MEG</target>
       </trans-unit>
       <trans-unit id="proxySupportOff">
         <source xml:lang="en">Disable proxy support for extensions.</source>
