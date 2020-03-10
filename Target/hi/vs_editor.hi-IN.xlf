@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target xml:lang="hi" state="translated">Meg Test Suggestion</target>
+        <target xml:lang="hi" state="needs-translation">Line {0}, Column {1} ({2} selected)</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit id="gotoLineAriaLabel">
         <source xml:lang="en">Current Line: {0}. Go to line {1}.</source>
-        <target xml:lang="hi" state="translated">वर्तमान पंक्ति: {0}. पंक्ति {1} पर जाएं ।</target>
+        <target xml:lang="hi" state="needs-translation">Current Line: {0}. Go to line {1}.</target>
       </trans-unit>
       <trans-unit id="gotoLineActionInput">
         <source xml:lang="en">Type a line number, followed by an optional colon and a character number to navigate to</source>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="editorViewAccessibleLabel_Duplicated1">
         <source xml:lang="en">Editor content</source>
-        <target xml:lang="hi" state="translated">संपादक सामग्री </target>
+        <target xml:lang="hi" state="needs-translation">Editor content</target>
       </trans-unit>
       <trans-unit id="accessibilityHelpMessageIE">
         <source xml:lang="en">Press Ctrl+F1 for Accessibility Options.</source>
@@ -224,7 +224,7 @@
     <body>
       <trans-unit id="plainText.alias">
         <source xml:lang="en">Plain Text</source>
-        <target xml:lang="hi" state="translated">सादे पाठ</target>
+        <target xml:lang="hi" state="needs-translation">Plain Text</target>
       </trans-unit>
     </body>
   </file>
@@ -232,11 +232,11 @@
     <body>
       <trans-unit id="lineHighlight">
         <source xml:lang="en">Background color for the highlight of line at the cursor position.</source>
-        <target xml:lang="hi" state="translated">कर्सर की स्थिति पर लाइन के प्रकाश के लिए पृष्ठभूमि रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Background color for the highlight of line at the cursor position.</target>
       </trans-unit>
       <trans-unit id="lineHighlightBorderBox">
         <source xml:lang="en">Background color for the border around the line at the cursor position.</source>
-        <target xml:lang="hi" state="translated">कर्सर के लोकेशन पर लाइन के चारों ओर सीमा के लिए पृष्ठभूमि रंग। </target>
+        <target xml:lang="hi" state="needs-translation">Background color for the border around the line at the cursor position.</target>
       </trans-unit>
       <trans-unit id="rangeHighlight">
         <source xml:lang="en">Background color of highlighted ranges, like by quick open and find features. The color must not be opaque so as not to hide underlying decorations.</source>
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="rangeHighlightBorder">
         <source xml:lang="en">Background color of the border around highlighted ranges.</source>
-        <target xml:lang="hi" state="translated">हाइलाइट की गई श्रेणियों के आस-पास बॉर्डर का पृष्ठभूमि रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Background color of the border around highlighted ranges.</target>
       </trans-unit>
       <trans-unit id="symbolHighlight">
         <source xml:lang="en">Background color of highlighted symbol, like for go to definition or go next/previous symbol. The color must not be opaque so as not to hide underlying decorations.</source>
@@ -260,55 +260,55 @@
       </trans-unit>
       <trans-unit id="editorCursorBackground">
         <source xml:lang="en">The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.</source>
-        <target xml:lang="hi" state="translated">संपादक कर्सर की पृष्ठभूमि रंग । एक ब्लॉक कर्सर द्वारा छा एक चरित्र के रंग को अनुकूलित करने की अनुमति देता है । </target>
+        <target xml:lang="hi" state="needs-translation">The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.</target>
       </trans-unit>
       <trans-unit id="editorWhitespaces">
         <source xml:lang="en">Color of whitespace characters in the editor.</source>
-        <target xml:lang="hi" state="translated">संपादक में श्वेत रिक्ति वर्णों का रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Color of whitespace characters in the editor.</target>
       </trans-unit>
       <trans-unit id="editorIndentGuides">
         <source xml:lang="en">Color of the editor indentation guides.</source>
-        <target xml:lang="hi" state="translated">संपादक इंडेंट मार्गदर्शिका का रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Color of the editor indentation guides.</target>
       </trans-unit>
       <trans-unit id="editorActiveIndentGuide">
         <source xml:lang="en">Color of the active editor indentation guides.</source>
-        <target xml:lang="hi" state="translated">सक्रिय संपादक इंडेंटेशन मार्गदर्शिकाओं का रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Color of the active editor indentation guides.</target>
       </trans-unit>
       <trans-unit id="editorLineNumbers">
         <source xml:lang="en">Color of editor line numbers.</source>
-        <target xml:lang="hi" state="translated">संपादक पंक्ति संख्याओं का रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Color of editor line numbers.</target>
       </trans-unit>
       <trans-unit id="editorActiveLineNumber">
         <source xml:lang="en">Color of editor active line number</source>
-        <target xml:lang="hi" state="translated">संपादक का रंग सक्रिय लाइन संख्या </target>
+        <target xml:lang="hi" state="needs-translation">Color of editor active line number</target>
       </trans-unit>
       <trans-unit id="deprecatedEditorActiveLineNumber">
         <source xml:lang="en">Id is deprecated. Use 'editorLineNumber.activeForeground' instead.</source>
-        <target xml:lang="hi" state="translated">Id पदावनत है । इसके बजाय ' editorLineNumber. activeForeground ' का प्रयोग करें । </target>
+        <target xml:lang="hi" state="needs-translation">Id is deprecated. Use 'editorLineNumber.activeForeground' instead.</target>
       </trans-unit>
       <trans-unit id="editorRuler">
         <source xml:lang="en">Color of the editor rulers.</source>
-        <target xml:lang="hi" state="translated">संपादक शासकों का रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Color of the editor rulers.</target>
       </trans-unit>
       <trans-unit id="editorCodeLensForeground">
         <source xml:lang="en">Foreground color of editor code lenses</source>
-        <target xml:lang="hi" state="translated">संपादक कोड लेंस के अग्रभूमि रंग </target>
+        <target xml:lang="hi" state="needs-translation">Foreground color of editor code lenses</target>
       </trans-unit>
       <trans-unit id="editorBracketMatchBackground">
         <source xml:lang="en">Background color behind matching brackets</source>
-        <target xml:lang="hi" state="translated">कोष्ठक मिलान के पीछे पृष्ठभूमि रंग </target>
+        <target xml:lang="hi" state="needs-translation">Background color behind matching brackets</target>
       </trans-unit>
       <trans-unit id="editorBracketMatchBorder">
         <source xml:lang="en">Color for matching brackets boxes</source>
-        <target xml:lang="hi" state="translated">कोष्ठक बक्से मिलान के लिए रंग </target>
+        <target xml:lang="hi" state="needs-translation">Color for matching brackets boxes</target>
       </trans-unit>
       <trans-unit id="editorOverviewRulerBorder">
         <source xml:lang="en">Color of the overview ruler border.</source>
-        <target xml:lang="hi" state="translated">ओवरव्यू मापनी बॉर्डर का रंग. </target>
+        <target xml:lang="hi" state="needs-translation">Color of the overview ruler border.</target>
       </trans-unit>
       <trans-unit id="editorGutter">
         <source xml:lang="en">Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.</source>
-        <target xml:lang="hi" state="translated">संपादक गटर की पृष्ठभूमि रंग । गटर में glyph मार्जिन और लाइन नंबर होते हैं । </target>
+        <target xml:lang="hi" state="needs-translation">Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.</target>
       </trans-unit>
       <trans-unit id="unnecessaryCodeBorder">
         <source xml:lang="en">Border color of unnecessary (unused) source code in the editor.</source>
@@ -324,15 +324,15 @@
       </trans-unit>
       <trans-unit id="overviewRuleError">
         <source xml:lang="en">Overview ruler marker color for errors.</source>
-        <target xml:lang="hi" state="translated">त्रुटियों के लिए ओवरव्यू मापनी मार्कर रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Overview ruler marker color for errors.</target>
       </trans-unit>
       <trans-unit id="overviewRuleWarning">
         <source xml:lang="en">Overview ruler marker color for warnings.</source>
-        <target xml:lang="hi" state="translated">चेतावनियों के लिए ओवरव्यू मापनी मार्कर रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Overview ruler marker color for warnings.</target>
       </trans-unit>
       <trans-unit id="overviewRuleInfo">
         <source xml:lang="en">Overview ruler marker color for infos.</source>
-        <target xml:lang="hi" state="translated">जानकारी के लिए ओवरव्यू मापनी मार्कर रंग । </target>
+        <target xml:lang="hi" state="needs-translation">Overview ruler marker color for infos.</target>
       </trans-unit>
     </body>
   </file>
@@ -344,31 +344,31 @@
       </trans-unit>
       <trans-unit id="tabSize">
         <source xml:lang="en">The number of spaces a tab is equal to. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</source>
-        <target xml:lang="hi" state="translated">किसी टैब के बराबर रिक्तियों की संख्या । ' #editor. detectIndentation # ' पर है, जब यह सेटिंग फ़ाइल सामग्री के आधार पर ओवरराइड है । </target>
+        <target xml:lang="hi" state="needs-translation">The number of spaces a tab is equal to. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</target>
       </trans-unit>
       <trans-unit id="insertSpaces">
         <source xml:lang="en">Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</source>
-        <target xml:lang="hi" state="translated">' टैब ' दबाने पर रिक्तियों को संमिलित करें । ' #editor. detectIndentation # ' पर है, जब यह सेटिंग फ़ाइल सामग्री के आधार पर ओवरराइड है ।</target>
+        <target xml:lang="hi" state="needs-translation">Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</target>
       </trans-unit>
       <trans-unit id="detectIndentation">
         <source xml:lang="en">Controls whether `#editor.tabSize#` and `#editor.insertSpaces#` will be automatically detected when a file is opened based on the file contents.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या ' #editor. tabSize # ' और ' #editor. insertSpaces # ' फ़ाइल की सामग्री के आधार पर किसी फ़ाइल के खोले जाने पर स्वचालित रूप से पाया जाएगा । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether `#editor.tabSize#` and `#editor.insertSpaces#` will be automatically detected when a file is opened based on the file contents.</target>
       </trans-unit>
       <trans-unit id="trimAutoWhitespace">
         <source xml:lang="en">Remove trailing auto inserted whitespace.</source>
-        <target xml:lang="hi" state="translated">पीछे आने वाली स्वत: संमिलित श्वेत रिक्ति निकालें । </target>
+        <target xml:lang="hi" state="needs-translation">Remove trailing auto inserted whitespace.</target>
       </trans-unit>
       <trans-unit id="largeFileOptimizations">
         <source xml:lang="en">Special handling for large files to disable certain memory intensive features.</source>
-        <target xml:lang="hi" state="translated">कुछ स्मृति गहन सुविधाओं को निष्क्रिय करने के लिए बड़ी फ़ाइलों के लिए विशेष हैंडलिंग।</target>
+        <target xml:lang="hi" state="needs-translation">Special handling for large files to disable certain memory intensive features.</target>
       </trans-unit>
       <trans-unit id="wordBasedSuggestions">
         <source xml:lang="en">Controls whether completions should be computed based on words in the document.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण कि पूर्णताएं दस्तावेज़ में शब्दों के आधार पर परिकलित की जानी चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether completions should be computed based on words in the document.</target>
       </trans-unit>
       <trans-unit id="stablePeek">
         <source xml:lang="en">Keep peek editors open even when double clicking their content or when hitting `Escape`.</source>
-        <target xml:lang="hi" state="translated">झांकना संपादक भी जब डबल उनकी सामग्री पर क्लिक करें या जब ' ' एस्केप मार खुला रखो । </target>
+        <target xml:lang="hi" state="needs-translation">Keep peek editors open even when double clicking their content or when hitting `Escape`.</target>
       </trans-unit>
       <trans-unit id="maxTokenizationLineLength">
         <source xml:lang="en">Lines above this length will not be tokenized for performance reasons</source>
@@ -380,15 +380,15 @@
       </trans-unit>
       <trans-unit id="sideBySide">
         <source xml:lang="en">Controls whether the diff editor shows the diff side by side or inline.</source>
-        <target xml:lang="hi" state="translated">यह नियंत्रित करता है कि क्या रचनाकार संपादक अंतर-पक्ष या इनलाइन द्वारा दिखाई देता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the diff editor shows the diff side by side or inline.</target>
       </trans-unit>
       <trans-unit id="ignoreTrimWhitespace">
         <source xml:lang="en">Controls whether the diff editor shows changes in leading or trailing whitespace as diffs.</source>
-        <target xml:lang="hi" state="translated">रचनाकार संपादक के रूप में अग्रणी या पीछे आने वाली श्वेत रिक्ति में परिवर्तन दिखाता है कि क्या नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the diff editor shows changes in leading or trailing whitespace as diffs.</target>
       </trans-unit>
       <trans-unit id="renderIndicators">
         <source xml:lang="en">Controls whether the diff editor shows +/- indicators for added/removed changes.</source>
-        <target xml:lang="hi" state="translated">जोड़े गए/निकाले गए परिवर्तनों के लिए अंतर संपादक +/ </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the diff editor shows +/- indicators for added/removed changes.</target>
       </trans-unit>
     </body>
   </file>
@@ -423,7 +423,7 @@
     <body>
       <trans-unit id="diff.tooLarge">
         <source xml:lang="en">Cannot compare files because one file is too large.</source>
-        <target xml:lang="hi" state="translated">फ़ाइलों की तुलना नही की जा सकती क्योंकि एक फ़ाइल बहुत बड़ी है।</target>
+        <target xml:lang="hi" state="needs-translation">Cannot compare files because one file is too large.</target>
       </trans-unit>
     </body>
   </file>
@@ -451,27 +451,27 @@
     <body>
       <trans-unit id="accessibilitySupport.auto">
         <source xml:lang="en">The editor will use platform APIs to detect when a Screen Reader is attached.</source>
-        <target xml:lang="hi" state="translated">संपादक प्लेटफ़ॉर्म एपीआई का पता लगाने के लिए उपयोग करेगा जब एक स्क्रीन रीडर अनुलग्न है । </target>
+        <target xml:lang="hi" state="needs-translation">The editor will use platform APIs to detect when a Screen Reader is attached.</target>
       </trans-unit>
       <trans-unit id="accessibilitySupport.on">
         <source xml:lang="en">The editor will be permanently optimized for usage with a Screen Reader.</source>
-        <target xml:lang="hi" state="translated">संपादक स्थाई रूप से एक स्क्रीन रीडर के साथ उपयोग के लिए अनुकूलित किया जाएगा । </target>
+        <target xml:lang="hi" state="needs-translation">The editor will be permanently optimized for usage with a Screen Reader.</target>
       </trans-unit>
       <trans-unit id="accessibilitySupport.off">
         <source xml:lang="en">The editor will never be optimized for usage with a Screen Reader.</source>
-        <target xml:lang="hi" state="translated">संपादक एक स्क्रीन रीडर के साथ उपयोग के लिए कभी नहीं अनुकूलित किया जाएगा । </target>
+        <target xml:lang="hi" state="needs-translation">The editor will never be optimized for usage with a Screen Reader.</target>
       </trans-unit>
       <trans-unit id="accessibilitySupport">
         <source xml:lang="en">Controls whether the editor should run in a mode where it is optimized for screen readers.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या संपादक एक विधा में चलाना चाहिए, जहां यह स्क्रीन पाठकों के लिए अनुकूलित है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should run in a mode where it is optimized for screen readers.</target>
       </trans-unit>
       <trans-unit id="emptySelectionClipboard">
         <source xml:lang="en">Controls whether copying without a selection copies the current line.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण कि क्या चयन के बिना प्रतिलिपि बनाना वर्तमान पंक्ति की प्रतिलिपि बनाता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether copying without a selection copies the current line.</target>
       </trans-unit>
       <trans-unit id="find.seedSearchStringFromSelection">
         <source xml:lang="en">Controls whether the search string in the Find Widget is seeded from the editor selection.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण खोजें विजेट में खोज स्ट्रिंग संपादक चयन से वरीयता प्राप्त है कि क्या. </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the search string in the Find Widget is seeded from the editor selection.</target>
       </trans-unit>
       <trans-unit id="editor.find.autoFindInSelection.never">
         <source xml:lang="en">Never turn on Find in selection automatically (default)</source>
@@ -487,11 +487,11 @@
       </trans-unit>
       <trans-unit id="find.autoFindInSelection">
         <source xml:lang="en">Controls whether the find operation is carried out on selected text or the entire file in the editor.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या खोज कार्रवाई चयनित पाठ या संपादक में पूरी फ़ाइल पर किया जाता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the find operation is carried out on selected text or the entire file in the editor.</target>
       </trans-unit>
       <trans-unit id="find.globalFindClipboard">
         <source xml:lang="en">Controls whether the Find Widget should read or modify the shared find clipboard on macOS.</source>
-        <target xml:lang="hi" state="translated">खोजें विजेट पढ़ने या macOS पर साझा खोज क्लिपबोर्ड को संशोधित करना चाहिए कि क्या नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the Find Widget should read or modify the shared find clipboard on macOS.</target>
       </trans-unit>
       <trans-unit id="find.addExtraSpaceOnTop">
         <source xml:lang="en">Controls whether the Find Widget should add extra lines on top of the editor. When true, you can scroll beyond the first line when the Find Widget is visible.</source>
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="fontLigatures">
         <source xml:lang="en">Enables/Disables font ligatures.</source>
-        <target xml:lang="hi" state="translated">फ़ॉन्ट लिगेचर्स सक्षम करता है/ </target>
+        <target xml:lang="hi" state="needs-translation">Enables/Disables font ligatures.</target>
       </trans-unit>
       <trans-unit id="fontFeatureSettings">
         <source xml:lang="en">Explicit font-feature-settings.</source>
@@ -511,7 +511,7 @@
       </trans-unit>
       <trans-unit id="fontSize">
         <source xml:lang="en">Controls the font size in pixels.</source>
-        <target xml:lang="hi" state="translated">पिक्सेल में फ़ॉंट आकार नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the font size in pixels.</target>
       </trans-unit>
       <trans-unit id="editor.gotoLocation.multiple.peek">
         <source xml:lang="en">Show peek view of the results (default)</source>
@@ -571,15 +571,15 @@
       </trans-unit>
       <trans-unit id="hover.enabled">
         <source xml:lang="en">Controls whether the hover is shown.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या हॉवर दिखाया गया है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the hover is shown.</target>
       </trans-unit>
       <trans-unit id="hover.delay">
         <source xml:lang="en">Controls the delay in milliseconds after which the hover is shown.</source>
-        <target xml:lang="hi" state="translated">जिसके बाद हॉवर दिखाया जाता है मिलीसेकंड में देरी नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the delay in milliseconds after which the hover is shown.</target>
       </trans-unit>
       <trans-unit id="hover.sticky">
         <source xml:lang="en">Controls whether the hover should remain visible when mouse is moved over it.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या हॉवर दृश्यमान रहना चाहिए, जब माउस उस पर चला जाए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the hover should remain visible when mouse is moved over it.</target>
       </trans-unit>
       <trans-unit id="semanticHighlighting.enabled">
         <source xml:lang="en">Controls whether the semanticHighlighting is shown for the languages that support it.</source>
@@ -587,19 +587,19 @@
       </trans-unit>
       <trans-unit id="codeActions">
         <source xml:lang="en">Enables the code action lightbulb in the editor.</source>
-        <target xml:lang="hi" state="translated">संपादक में कोड क्रिया लाइट बल्ब सक्षम करता है ।</target>
+        <target xml:lang="hi" state="needs-translation">Enables the code action lightbulb in the editor.</target>
       </trans-unit>
       <trans-unit id="lineHeight">
         <source xml:lang="en">Controls the line height. Use 0 to compute the line height from the font size.</source>
-        <target xml:lang="hi" state="translated">रेखा की ऊंचाई नियंत्रित करता है । 0 का उपयोग करने के लिए फ़ॉन्ट आकार से लाइन ऊँचाई की गणना. </target>
+        <target xml:lang="hi" state="needs-translation">Controls the line height. Use 0 to compute the line height from the font size.</target>
       </trans-unit>
       <trans-unit id="minimap.enabled">
         <source xml:lang="en">Controls whether the minimap is shown.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या minimap दिखाया गया है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the minimap is shown.</target>
       </trans-unit>
       <trans-unit id="minimap.side">
         <source xml:lang="en">Controls the side where to render the minimap.</source>
-        <target xml:lang="hi" state="translated">minimap को रेंडर करने के लिए साइड को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the side where to render the minimap.</target>
       </trans-unit>
       <trans-unit id="minimap.showSlider">
         <source xml:lang="en">Controls when the minimap slider is shown.</source>
@@ -611,59 +611,59 @@
       </trans-unit>
       <trans-unit id="minimap.renderCharacters">
         <source xml:lang="en">Render the actual characters on a line as opposed to color blocks.</source>
-        <target xml:lang="hi" state="translated">रंग ब्लॉक करने के लिए विरोध के रूप में एक पंक्ति पर वास्तविक पात्रों को रेंडर करें । </target>
+        <target xml:lang="hi" state="needs-translation">Render the actual characters on a line as opposed to color blocks.</target>
       </trans-unit>
       <trans-unit id="minimap.maxColumn">
         <source xml:lang="en">Limit the width of the minimap to render at most a certain number of columns.</source>
-        <target xml:lang="hi" state="translated">अधिकांश स्तंभों की निश्चित संख्या पर रेंडर करने के लिए minimap की चौड़ाई सीमित करें । </target>
+        <target xml:lang="hi" state="needs-translation">Limit the width of the minimap to render at most a certain number of columns.</target>
       </trans-unit>
       <trans-unit id="parameterHints.enabled">
         <source xml:lang="en">Enables a pop-up that shows parameter documentation and type information as you type.</source>
-        <target xml:lang="hi" state="translated">किसी पॉप-अप को सक्षम करता है जो पैरामीटर दस्तावेज़ीकरण दिखाता है और लिखते ही जानकारी लिखें । </target>
+        <target xml:lang="hi" state="needs-translation">Enables a pop-up that shows parameter documentation and type information as you type.</target>
       </trans-unit>
       <trans-unit id="parameterHints.cycle">
         <source xml:lang="en">Controls whether the parameter hints menu cycles or closes when reaching the end of the list.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या पैरामीटर संकेत मेनू चक्र या बंद हो जाता है जब सूची के अंत तक पहुंचने । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the parameter hints menu cycles or closes when reaching the end of the list.</target>
       </trans-unit>
       <trans-unit id="quickSuggestions.strings">
         <source xml:lang="en">Enable quick suggestions inside strings.</source>
-        <target xml:lang="hi" state="translated">स्ट्रिंग्स के अंदर त्वरित सुझाव सक्षम करें । </target>
+        <target xml:lang="hi" state="needs-translation">Enable quick suggestions inside strings.</target>
       </trans-unit>
       <trans-unit id="quickSuggestions.comments">
         <source xml:lang="en">Enable quick suggestions inside comments.</source>
-        <target xml:lang="hi" state="translated">टिप्पणियों के अंदर त्वरित सुझाव सक्षम करें । </target>
+        <target xml:lang="hi" state="needs-translation">Enable quick suggestions inside comments.</target>
       </trans-unit>
       <trans-unit id="quickSuggestions.other">
         <source xml:lang="en">Enable quick suggestions outside of strings and comments.</source>
-        <target xml:lang="hi" state="translated">स्ट्रिंग्स और टिप्पणियों के बाहर त्वरित सुझाव सक्षम करें । </target>
+        <target xml:lang="hi" state="needs-translation">Enable quick suggestions outside of strings and comments.</target>
       </trans-unit>
       <trans-unit id="quickSuggestions">
         <source xml:lang="en">Controls whether suggestions should automatically show up while typing.</source>
-        <target xml:lang="hi" state="translated">यह नियंत्रित करता है कि लिखते समय सुझाव स्वतः दिखाई दें । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether suggestions should automatically show up while typing.</target>
       </trans-unit>
       <trans-unit id="lineNumbers.off">
         <source xml:lang="en">Line numbers are not rendered.</source>
-        <target xml:lang="hi" state="translated">पंक्ति क्रमांक रेंडर नहीं किए गए । </target>
+        <target xml:lang="hi" state="needs-translation">Line numbers are not rendered.</target>
       </trans-unit>
       <trans-unit id="lineNumbers.on">
         <source xml:lang="en">Line numbers are rendered as absolute number.</source>
-        <target xml:lang="hi" state="translated">पंक्ति संख्याओं को निरपेक्ष संख्या के रूप में रेंडर किया जाता है. </target>
+        <target xml:lang="hi" state="needs-translation">Line numbers are rendered as absolute number.</target>
       </trans-unit>
       <trans-unit id="lineNumbers.relative">
         <source xml:lang="en">Line numbers are rendered as distance in lines to cursor position.</source>
-        <target xml:lang="hi" state="translated">लाइन संख्या कर्सर की स्थिति के लिए लाइनों में दूरी के रूप में प्रदान की जाती हैं । </target>
+        <target xml:lang="hi" state="needs-translation">Line numbers are rendered as distance in lines to cursor position.</target>
       </trans-unit>
       <trans-unit id="lineNumbers.interval">
         <source xml:lang="en">Line numbers are rendered every 10 lines.</source>
-        <target xml:lang="hi" state="translated">पंक्ति संख्या हर 10 लाइनें प्रदान की जाती हैं । </target>
+        <target xml:lang="hi" state="needs-translation">Line numbers are rendered every 10 lines.</target>
       </trans-unit>
       <trans-unit id="lineNumbers">
         <source xml:lang="en">Controls the display of line numbers.</source>
-        <target xml:lang="hi" state="translated">पंक्ति संख्याओं के प्रदर्शन को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the display of line numbers.</target>
       </trans-unit>
       <trans-unit id="rulers">
         <source xml:lang="en">Render vertical rulers after a certain number of monospace characters. Use multiple values for multiple rulers. No rulers are drawn if array is empty.</source>
-        <target xml:lang="hi" state="translated">मोनोस्पेस वर्णों की एक निश्चित संख्या के बाद अनुलंब मापनी रेंडर करना । एकाधिक मापनियों के लिए एकाधिक मानों का उपयोग करें. सरणी रिक्त है, तो कोई मापनी आरेखित हैं ।</target>
+        <target xml:lang="hi" state="needs-translation">Render vertical rulers after a certain number of monospace characters. Use multiple values for multiple rulers. No rulers are drawn if array is empty.</target>
       </trans-unit>
       <trans-unit id="suggest.insertMode.insert">
         <source xml:lang="en">Insert suggestion without overwriting text right of the cursor.</source>
@@ -683,11 +683,11 @@
       </trans-unit>
       <trans-unit id="suggest.filterGraceful">
         <source xml:lang="en">Controls whether filtering and sorting suggestions accounts for small typos.</source>
-        <target xml:lang="hi" state="translated">छोटे typos के लिए सुझाव खातों फ़िल्टरिंग और छंटाई कि नियंत्रण । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether filtering and sorting suggestions accounts for small typos.</target>
       </trans-unit>
       <trans-unit id="suggest.localityBonus">
         <source xml:lang="en">Controls whether sorting favours words that appear close to the cursor.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या छंटाई कर्सर के करीब प्रकट शब्दों के अनुकूल है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether sorting favours words that appear close to the cursor.</target>
       </trans-unit>
       <trans-unit id="suggest.shareSuggestSelections">
         <source xml:lang="en">Controls whether remembered suggestion selections are shared between multiple workspaces and windows (needs `#editor.suggestSelection#`).</source>
@@ -695,11 +695,11 @@
       </trans-unit>
       <trans-unit id="suggest.snippetsPreventQuickSuggestions">
         <source xml:lang="en">Control whether an active snippet prevents quick suggestions.</source>
-        <target xml:lang="hi" state="translated">Controls whether an active snippet prevents quick suggestions.</target>
+        <target xml:lang="hi" state="needs-translation">Control whether an active snippet prevents quick suggestions.</target>
       </trans-unit>
       <trans-unit id="suggest.showIcons">
         <source xml:lang="en">Controls whether to show or hide icons in suggestions.</source>
-        <target xml:lang="hi" state="translated">सुझावों में चिह्नों को दिखाने या छुपाने को नियंत्रित करता है ।</target>
+        <target xml:lang="hi" state="needs-translation">Controls whether to show or hide icons in suggestions.</target>
       </trans-unit>
       <trans-unit id="suggest.maxVisibleSuggestions">
         <source xml:lang="en">Controls how many suggestions IntelliSense will show before showing a scrollbar (maximum 15).</source>
@@ -815,15 +815,15 @@
       </trans-unit>
       <trans-unit id="acceptSuggestionOnCommitCharacter">
         <source xml:lang="en">Controls whether suggestions should be accepted on commit characters. For example, in JavaScript, the semi-colon (`;`) can be a commit character that accepts a suggestion and types that character.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण कि क्या प्रतिबद्ध वर्णों पर सुझाव स्वीकार किए जाने चाहिए । उदाहरण के लिए, JavaScript में, अर्द्ध-विराम ('; ') एक कमिट वर्ण हो सकता है जो किसी सुझाव को स्वीकार करता है और वह वर्ण प्रकार । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether suggestions should be accepted on commit characters. For example, in JavaScript, the semi-colon (`;`) can be a commit character that accepts a suggestion and types that character.</target>
       </trans-unit>
       <trans-unit id="acceptSuggestionOnEnterSmart">
         <source xml:lang="en">Only accept a suggestion with `Enter` when it makes a textual change.</source>
-        <target xml:lang="hi" state="translated">केवल ' के साथ एक सुझाव स्वीकार ' दर्ज करें जब यह एक शाब्दिक परिवर्तन करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Only accept a suggestion with `Enter` when it makes a textual change.</target>
       </trans-unit>
       <trans-unit id="acceptSuggestionOnEnter">
         <source xml:lang="en">Controls whether suggestions should be accepted on `Enter`, in addition to `Tab`. Helps to avoid ambiguity between inserting new lines or accepting suggestions.</source>
-        <target xml:lang="hi" state="translated">' टैब ' के अतिरिक्त ' दर्ज ' पर सुझाव स्वीकार किए जाने चाहिए या नहीं, यह नियंत्रित करता है । नई लाइनें डालने या सुझावों को स्वीकार करने के बीच अस्पष्टता से बचने में मदद करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether suggestions should be accepted on `Enter`, in addition to `Tab`. Helps to avoid ambiguity between inserting new lines or accepting suggestions.</target>
       </trans-unit>
       <trans-unit id="accessibilityPageSize">
         <source xml:lang="en">Controls the number of lines in the editor that can be read out by a screen reader. Warning: this has a performance implication for numbers larger than the default.</source>
@@ -831,19 +831,19 @@
       </trans-unit>
       <trans-unit id="editorViewAccessibleLabel_Duplicated2">
         <source xml:lang="en">Editor content</source>
-        <target xml:lang="hi" state="translated">संपादक सामग्री </target>
+        <target xml:lang="hi" state="needs-translation">Editor content</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingBrackets.languageDefined">
         <source xml:lang="en">Use language configurations to determine when to autoclose brackets.</source>
-        <target xml:lang="hi" state="translated">कोष्ठक को कब बंद करें यह निर्धारित करने के लिए भाषा कॉंफ़िगरेशन का उपयोग करें । </target>
+        <target xml:lang="hi" state="needs-translation">Use language configurations to determine when to autoclose brackets.</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingBrackets.beforeWhitespace">
         <source xml:lang="en">Autoclose brackets only when the cursor is to the left of whitespace.</source>
-        <target xml:lang="hi" state="translated">कोष्ठक को केवल तभी बंद करें जब कर्सर श्वेत रिक्ति के बाईं ओर हो । </target>
+        <target xml:lang="hi" state="needs-translation">Autoclose brackets only when the cursor is to the left of whitespace.</target>
       </trans-unit>
       <trans-unit id="autoClosingBrackets">
         <source xml:lang="en">Controls whether the editor should automatically close brackets after the user adds an opening bracket.</source>
-        <target xml:lang="hi" state="translated">यह नियंत्रित करता है कि उपयोगकर्ता को आरंभिक कोष्ठक जोड़ने के बाद संपादक को अपने आप कोष्ठक बंद करने चाहिए या नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should automatically close brackets after the user adds an opening bracket.</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingOvertype.auto">
         <source xml:lang="en">Type over closing quotes or brackets only if they were automatically inserted.</source>
@@ -855,15 +855,15 @@
       </trans-unit>
       <trans-unit id="editor.autoClosingQuotes.languageDefined">
         <source xml:lang="en">Use language configurations to determine when to autoclose quotes.</source>
-        <target xml:lang="hi" state="translated">उद्धरण को कब बंद करें यह निर्धारित करने के लिए भाषा कॉंफ़िगरेशन का उपयोग करें । </target>
+        <target xml:lang="hi" state="needs-translation">Use language configurations to determine when to autoclose quotes.</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingQuotes.beforeWhitespace">
         <source xml:lang="en">Autoclose quotes only when the cursor is to the left of whitespace.</source>
-        <target xml:lang="hi" state="translated">केवल तभी बंद करें कोट जब कर्सर श्वेत रिक्ति के बाईं ओर हो । </target>
+        <target xml:lang="hi" state="needs-translation">Autoclose quotes only when the cursor is to the left of whitespace.</target>
       </trans-unit>
       <trans-unit id="autoClosingQuotes">
         <source xml:lang="en">Controls whether the editor should automatically close quotes after the user adds an opening quote.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण करता है कि क्या संपादक स्वचालित रूप से उद्धरण बंद करने के बाद उपयोगकर्ता एक खोलने उद्धरण जोड़ता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should automatically close quotes after the user adds an opening quote.</target>
       </trans-unit>
       <trans-unit id="editor.autoIndent.none">
         <source xml:lang="en">The editor will not insert indentation automatically.</source>
@@ -891,19 +891,19 @@
       </trans-unit>
       <trans-unit id="editor.autoSurround.languageDefined">
         <source xml:lang="en">Use language configurations to determine when to automatically surround selections.</source>
-        <target xml:lang="hi" state="translated">भाषा कॉंफ़िगरेशन का उपयोग यह निर्धारित करने के लिए करें कि कब स्वचालित रूप से चयन घेर । </target>
+        <target xml:lang="hi" state="needs-translation">Use language configurations to determine when to automatically surround selections.</target>
       </trans-unit>
       <trans-unit id="editor.autoSurround.quotes">
         <source xml:lang="en">Surround with quotes but not brackets.</source>
-        <target xml:lang="hi" state="translated">उद्धरण चिह्नों के साथ चारों ओर कोष्ठक नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Surround with quotes but not brackets.</target>
       </trans-unit>
       <trans-unit id="editor.autoSurround.brackets">
         <source xml:lang="en">Surround with brackets but not quotes.</source>
-        <target xml:lang="hi" state="translated">कोष्ठक के साथ चारों ओर लेकिन उद्धरण नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Surround with brackets but not quotes.</target>
       </trans-unit>
       <trans-unit id="autoSurround">
         <source xml:lang="en">Controls whether the editor should automatically surround selections.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण संपादक स्वचालित रूप से चयन घेरते हैं या नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should automatically surround selections.</target>
       </trans-unit>
       <trans-unit id="codeLens">
         <source xml:lang="en">Controls whether the editor shows CodeLens.</source>
@@ -911,23 +911,23 @@
       </trans-unit>
       <trans-unit id="colorDecorators">
         <source xml:lang="en">Controls whether the editor should render the inline color decorators and color picker.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण संपादक इनलाइन रंग डेकोरेटर्स और रंग पिकर रेंडर करना चाहिए या नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should render the inline color decorators and color picker.</target>
       </trans-unit>
       <trans-unit id="copyWithSyntaxHighlighting">
         <source xml:lang="en">Controls whether syntax highlighting should be copied into the clipboard.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण सिंटैक्स हाइलाइट करना क्लिपबोर्ड में प्रतिलिपि किया जाना चाहिए या नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether syntax highlighting should be copied into the clipboard.</target>
       </trans-unit>
       <trans-unit id="cursorBlinking">
         <source xml:lang="en">Control the cursor animation style.</source>
-        <target xml:lang="hi" state="translated">कर्सर ऐनिमेशन शैली नियंत्रित करना । </target>
+        <target xml:lang="hi" state="needs-translation">Control the cursor animation style.</target>
       </trans-unit>
       <trans-unit id="cursorSmoothCaretAnimation">
         <source xml:lang="en">Controls whether the smooth caret animation should be enabled.</source>
-        <target xml:lang="hi" state="translated">स्मूथ कैरेट ऐनिमेशन सक्षम होना चाहिए या नहीं यह नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the smooth caret animation should be enabled.</target>
       </trans-unit>
       <trans-unit id="cursorStyle">
         <source xml:lang="en">Controls the cursor style.</source>
-        <target xml:lang="hi" state="translated">कर्सर शैली को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the cursor style.</target>
       </trans-unit>
       <trans-unit id="cursorSurroundingLines">
         <source xml:lang="en">Controls the minimal number of visible leading and trailing lines surrounding the cursor. Known as 'scrollOff' or `scrollOffset` in some other editors.</source>
@@ -947,11 +947,11 @@
       </trans-unit>
       <trans-unit id="cursorWidth">
         <source xml:lang="en">Controls the width of the cursor when `#editor.cursorStyle#` is set to `line`.</source>
-        <target xml:lang="hi" state="translated">जब ' #editor. cursorStyle # ' ' रेखा ' पर सेट है, तो कर्सर की चौड़ाई नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the width of the cursor when `#editor.cursorStyle#` is set to `line`.</target>
       </trans-unit>
       <trans-unit id="dragAndDrop">
         <source xml:lang="en">Controls whether the editor should allow moving selections via drag and drop.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण क्या संपादक खींचें और ड्रॉप के माध्यम से चयन स्थानांतरण की अनुमति चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should allow moving selections via drag and drop.</target>
       </trans-unit>
       <trans-unit id="fastScrollSensitivity">
         <source xml:lang="en">Scrolling speed multiplier when pressing `Alt`.</source>
@@ -963,7 +963,7 @@
       </trans-unit>
       <trans-unit id="foldingStrategy">
         <source xml:lang="en">Controls the strategy for computing folding ranges. `auto` uses a language specific folding strategy, if available. `indentation` uses the indentation based folding strategy.</source>
-        <target xml:lang="hi" state="translated">Controls the strategy for computing folding ranges.</target>
+        <target xml:lang="hi" state="needs-translation">Controls the strategy for computing folding ranges. `auto` uses a language specific folding strategy, if available. `indentation` uses the indentation based folding strategy.</target>
       </trans-unit>
       <trans-unit id="foldingHighlight">
         <source xml:lang="en">Controls whether the editor should highlight folded ranges.</source>
@@ -971,39 +971,39 @@
       </trans-unit>
       <trans-unit id="fontFamily">
         <source xml:lang="en">Controls the font family.</source>
-        <target xml:lang="hi" state="translated">फ़ॉन्ट परिवार को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the font family.</target>
       </trans-unit>
       <trans-unit id="fontWeight">
         <source xml:lang="en">Controls the font weight.</source>
-        <target xml:lang="hi" state="translated">फ़ॉंट वजन नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the font weight.</target>
       </trans-unit>
       <trans-unit id="formatOnPaste">
         <source xml:lang="en">Controls whether the editor should automatically format the pasted content. A formatter must be available and the formatter should be able to format a range in a document.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण करता है कि क्या संपादक को चिपकाई गई सामग्री को स्वचालित रूप से स्वरूपित करना चाहिए । कोई formatter उपलब्ध होना चाहिए और फ़ॉर्मेटर किसी दस्तावेज़ में किसी श्रेणी को स्वरूपित करने में सक्षम होना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should automatically format the pasted content. A formatter must be available and the formatter should be able to format a range in a document.</target>
       </trans-unit>
       <trans-unit id="formatOnType">
         <source xml:lang="en">Controls whether the editor should automatically format the line after typing.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण क्या संपादक स्वचालित रूप से लाइन टाइपिंग के बाद स्वरूपित करना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should automatically format the line after typing.</target>
       </trans-unit>
       <trans-unit id="glyphMargin">
         <source xml:lang="en">Controls whether the editor should render the vertical glyph margin. Glyph margin is mostly used for debugging.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या संपादक को अनुलंब glyph हाशिया रेंडर करना चाहिए । ग्लिफ़ मार्जिन ज्यादातर डिबगिंग के लिए प्रयोग किया जाता है ।</target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should render the vertical glyph margin. Glyph margin is mostly used for debugging.</target>
       </trans-unit>
       <trans-unit id="hideCursorInOverviewRuler">
         <source xml:lang="en">Controls whether the cursor should be hidden in the overview ruler.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण कर्सर ओवरव्यू मापनी में छुपे होना चाहिए या नहीं । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the cursor should be hidden in the overview ruler.</target>
       </trans-unit>
       <trans-unit id="highlightActiveIndentGuide">
         <source xml:lang="en">Controls whether the editor should highlight the active indent guide.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या संपादक को सक्रिय इंडेंट मार्गदर्शिका हाइलाइट करनी चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should highlight the active indent guide.</target>
       </trans-unit>
       <trans-unit id="letterSpacing">
         <source xml:lang="en">Controls the letter spacing in pixels.</source>
-        <target xml:lang="hi" state="translated">पिक्सेल में अक्षर रिक्ति नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the letter spacing in pixels.</target>
       </trans-unit>
       <trans-unit id="links">
         <source xml:lang="en">Controls whether the editor should detect links and make them clickable.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण क्या संपादक लिंक का पता लगाने और उंहें क्लिक करने के लिए करना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should detect links and make them clickable.</target>
       </trans-unit>
       <trans-unit id="matchBrackets">
         <source xml:lang="en">Highlight matching brackets.</source>
@@ -1011,29 +1011,29 @@
       </trans-unit>
       <trans-unit id="mouseWheelScrollSensitivity">
         <source xml:lang="en">A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events.</source>
-        <target xml:lang="hi" state="translated">एक गुणक माउस व्हील स्क्रॉल घटनाओं के ' deltaX ' और ' डेल्टा ' पर इस्तेमाल किया जा करने के लिए । </target>
+        <target xml:lang="hi" state="needs-translation">A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events.</target>
       </trans-unit>
       <trans-unit id="mouseWheelZoom">
         <source xml:lang="en">Zoom the font of the editor when using mouse wheel and holding `Ctrl`.</source>
-        <target xml:lang="hi" state="translated">माउस व्हील का उपयोग करते समय संपादक के फ़ॉन्ट ज़ूम और ' Ctrl ' पकड़े. </target>
+        <target xml:lang="hi" state="needs-translation">Zoom the font of the editor when using mouse wheel and holding `Ctrl`.</target>
       </trans-unit>
       <trans-unit id="multiCursorMergeOverlapping">
         <source xml:lang="en">Merge multiple cursors when they are overlapping.</source>
-        <target xml:lang="hi" state="translated">जब वे अधिव्याप्त होते हैं, तो एकाधिक कर्सर मर्ज करें । </target>
+        <target xml:lang="hi" state="needs-translation">Merge multiple cursors when they are overlapping.</target>
       </trans-unit>
       <trans-unit id="multiCursorModifier.ctrlCmd">
         <source xml:lang="en">Maps to `Control` on Windows and Linux and to `Command` on macOS.</source>
-        <target xml:lang="hi" state="translated">विंडोज और लिनक्स पर ' नियंत्रण ' के लिए नक्शे और macOS पर ' आदेश ' के लिए । </target>
+        <target xml:lang="hi" state="needs-translation">Maps to `Control` on Windows and Linux and to `Command` on macOS.</target>
       </trans-unit>
       <trans-unit id="multiCursorModifier.alt">
         <source xml:lang="en">Maps to `Alt` on Windows and Linux and to `Option` on macOS.</source>
-        <target xml:lang="hi" state="translated">विंडोज और लिनक्स पर ' Alt ' के लिए नक्शे और macOS पर ' विकल्प ' के लिए । </target>
+        <target xml:lang="hi" state="needs-translation">Maps to `Alt` on Windows and Linux and to `Option` on macOS.</target>
       </trans-unit>
       <trans-unit id="multiCursorModifier">
         <source xml:lang="en">The modifier to be used to add multiple cursors with the mouse. The Go To Definition and Open Link mouse gestures will adapt such that they do not conflict with the multicursor modifier. [Read more](https://code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier).</source>
         <note>- `ctrlCmd` refers to a value the setting can take and should not be localized.
 - `Control` and `Command` refer to the modifier keys Ctrl or Cmd on the keyboard and can be localized.</note>
-        <target xml:lang="hi" state="translated">माउस के साथ एकाधिक कर्सर जोड़ने के लिए उपयोग किया जा करने के लिए संशोधक । परिभाषा के लिए जाओ और खुले लिंक माउस इशारों इस तरह है कि वे multicursor संशोधक के साथ संघर्ष नहीं अनुकूलन होगा । [और अधिक पढ़ें] (https://code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier) । </target>
+        <target xml:lang="hi" state="needs-translation">The modifier to be used to add multiple cursors with the mouse. The Go To Definition and Open Link mouse gestures will adapt such that they do not conflict with the multicursor modifier. [Read more](https://code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier).</target>
       </trans-unit>
       <trans-unit id="multiCursorPaste.spread">
         <source xml:lang="en">Each cursor pastes a single line of the text.</source>
@@ -1049,11 +1049,11 @@
       </trans-unit>
       <trans-unit id="occurrencesHighlight">
         <source xml:lang="en">Controls whether the editor should highlight semantic symbol occurrences.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण क्या संपादक अर्थ प्रतीक घटनाओं को उजागर करना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should highlight semantic symbol occurrences.</target>
       </trans-unit>
       <trans-unit id="overviewRulerBorder">
         <source xml:lang="en">Controls whether a border should be drawn around the overview ruler.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण क्या कोई बॉर्डर ओवरव्यू मापनी के आस-पास आरेखित किया जाना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether a border should be drawn around the overview ruler.</target>
       </trans-unit>
       <trans-unit id="peekWidgetFocusInlineEditor">
         <source xml:lang="en">Controls whether to focus the inline editor in the peek widget by default.</source>
@@ -1061,15 +1061,15 @@
       </trans-unit>
       <trans-unit id="quickSuggestionsDelay">
         <source xml:lang="en">Controls the delay in milliseconds after which quick suggestions will show up.</source>
-        <target xml:lang="hi" state="translated">मिलीसेकंड में विलंब को नियंत्रित करता है जिसके बाद त्वरित सुझाव दिखाई देंगे. </target>
+        <target xml:lang="hi" state="needs-translation">Controls the delay in milliseconds after which quick suggestions will show up.</target>
       </trans-unit>
       <trans-unit id="renderControlCharacters">
         <source xml:lang="en">Controls whether the editor should render control characters.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या संपादक नियंत्रण वर्ण रेंडर करना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should render control characters.</target>
       </trans-unit>
       <trans-unit id="renderIndentGuides">
         <source xml:lang="en">Controls whether the editor should render indent guides.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण करता है कि क्या संपादक को इंडेंट मार्गदर्शिकाएं रेंडर करनी चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor should render indent guides.</target>
       </trans-unit>
       <trans-unit id="renderFinalNewline">
         <source xml:lang="en">Render last line number when the file ends with a newline.</source>
@@ -1077,11 +1077,11 @@
       </trans-unit>
       <trans-unit id="renderLineHighlight.all">
         <source xml:lang="en">Highlights both the gutter and the current line.</source>
-        <target xml:lang="hi" state="translated">दोनों गटर और वर्तमान लाइन पर प्रकाश डाला गया । </target>
+        <target xml:lang="hi" state="needs-translation">Highlights both the gutter and the current line.</target>
       </trans-unit>
       <trans-unit id="renderLineHighlight">
         <source xml:lang="en">Controls how the editor should render the current line highlight.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण कैसे संपादक वर्तमान पंक्ति हाइलाइट रेंडर करना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls how the editor should render the current line highlight.</target>
       </trans-unit>
       <trans-unit id="renderWhitespace.boundary">
         <source xml:lang="en">Render whitespace characters except for single spaces between words.</source>
@@ -1093,23 +1093,23 @@
       </trans-unit>
       <trans-unit id="renderWhitespace">
         <source xml:lang="en">Controls how the editor should render whitespace characters.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण कैसे संपादक को श्वेत रिक्ति वर्ण रेंडर करना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls how the editor should render whitespace characters.</target>
       </trans-unit>
       <trans-unit id="roundedSelection">
         <source xml:lang="en">Controls whether selections should have rounded corners.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या चयन गोल कोनों होना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether selections should have rounded corners.</target>
       </trans-unit>
       <trans-unit id="scrollBeyondLastColumn">
         <source xml:lang="en">Controls the number of extra characters beyond which the editor will scroll horizontally.</source>
-        <target xml:lang="hi" state="translated">जो परे संपादक क्षैतिज स्क्रॉल करेंगे अतिरिक्त पात्रों की संख्या को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the number of extra characters beyond which the editor will scroll horizontally.</target>
       </trans-unit>
       <trans-unit id="scrollBeyondLastLine">
         <source xml:lang="en">Controls whether the editor will scroll beyond the last line.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या संपादक अंतिम पंक्ति से आगे स्क्रॉल करेगा । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor will scroll beyond the last line.</target>
       </trans-unit>
       <trans-unit id="selectionClipboard">
         <source xml:lang="en">Controls whether the Linux primary clipboard should be supported.</source>
-        <target xml:lang="hi" state="translated">नियंत्रित करता है कि क्या लिनक्स प्राथमिक क्लिपबोर्ड समर्थित किया जाना चाहिए । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the Linux primary clipboard should be supported.</target>
       </trans-unit>
       <trans-unit id="selectionHighlight">
         <source xml:lang="en">Controls whether the editor should highlight matches similar to the selection.</source>
@@ -1117,51 +1117,51 @@
       </trans-unit>
       <trans-unit id="showFoldingControls">
         <source xml:lang="en">Controls whether the fold controls on the gutter are automatically hidden.</source>
-        <target xml:lang="hi" state="translated">Controls when the folding controls on the gutter are shown.</target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the fold controls on the gutter are automatically hidden.</target>
       </trans-unit>
       <trans-unit id="showUnused">
         <source xml:lang="en">Controls fading out of unused code.</source>
-        <target xml:lang="hi" state="translated">अप्रयुक्त कोड से लुप्त होती नियंत्रण । </target>
+        <target xml:lang="hi" state="needs-translation">Controls fading out of unused code.</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.top">
         <source xml:lang="en">Show snippet suggestions on top of other suggestions.</source>
-        <target xml:lang="hi" state="translated">अन्य सुझावों के शीर्ष पर स्निपेट सुझाव दिखाएँ. </target>
+        <target xml:lang="hi" state="needs-translation">Show snippet suggestions on top of other suggestions.</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.bottom">
         <source xml:lang="en">Show snippet suggestions below other suggestions.</source>
-        <target xml:lang="hi" state="translated">अन्य सुझावों के नीचे स्निपेट सुझाव दिखाएँ. </target>
+        <target xml:lang="hi" state="needs-translation">Show snippet suggestions below other suggestions.</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.inline">
         <source xml:lang="en">Show snippets suggestions with other suggestions.</source>
-        <target xml:lang="hi" state="translated">अन्य सुझावों के साथ स्निपेट सुझाव दिखाएँ. </target>
+        <target xml:lang="hi" state="needs-translation">Show snippets suggestions with other suggestions.</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.none">
         <source xml:lang="en">Do not show snippet suggestions.</source>
-        <target xml:lang="hi" state="translated">स्निपेट सुझाव न दिखाएँ. </target>
+        <target xml:lang="hi" state="needs-translation">Do not show snippet suggestions.</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions">
         <source xml:lang="en">Controls whether snippets are shown with other suggestions and how they are sorted.</source>
-        <target xml:lang="hi" state="translated">यह नियंत्रित करता है कि स्निपेट अन्य सुझावों के साथ दिखाए जाते हैं या वे कैसे सॉर्ट किए जाते हैं. </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether snippets are shown with other suggestions and how they are sorted.</target>
       </trans-unit>
       <trans-unit id="smoothScrolling">
         <source xml:lang="en">Controls whether the editor will scroll using an animation.</source>
-        <target xml:lang="hi" state="translated">नियंत्रण है कि क्या संपादक एक एनीमेशन का उपयोग कर स्क्रॉल करेगा । </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether the editor will scroll using an animation.</target>
       </trans-unit>
       <trans-unit id="suggestFontSize">
         <source xml:lang="en">Font size for the suggest widget. When set to `0`, the value of `#editor.fontSize#` is used.</source>
-        <target xml:lang="hi" state="translated">विजेट सुझाव के लिए फ़ॉन्ट आकार. ' 0 ' पर सेट होने पर, ' #editor. fontSize # ' का मान उपयोग किया जाता है । </target>
+        <target xml:lang="hi" state="needs-translation">Font size for the suggest widget. When set to `0`, the value of `#editor.fontSize#` is used.</target>
       </trans-unit>
       <trans-unit id="suggestLineHeight">
         <source xml:lang="en">Line height for the suggest widget. When set to `0`, the value of `#editor.lineHeight#` is used.</source>
-        <target xml:lang="hi" state="translated">विजेट सुझाव के लिए लाइन ऊंचाई । ' 0 ' पर सेट होने पर, ' #editor. lineHeight # ' का मान उपयोग किया जाता है । </target>
+        <target xml:lang="hi" state="needs-translation">Line height for the suggest widget. When set to `0`, the value of `#editor.lineHeight#` is used.</target>
       </trans-unit>
       <trans-unit id="suggestOnTriggerCharacters">
         <source xml:lang="en">Controls whether suggestions should automatically show up when typing trigger characters.</source>
-        <target xml:lang="hi" state="translated">ट्रिगर वर्ण लिखते समय सुझाव स्वचालित रूप से दिखाई देने चाहिए या नहीं. </target>
+        <target xml:lang="hi" state="needs-translation">Controls whether suggestions should automatically show up when typing trigger characters.</target>
       </trans-unit>
       <trans-unit id="suggestSelection.first">
         <source xml:lang="en">Always select the first suggestion.</source>
-        <target xml:lang="hi" state="translated">हमेशा पहले सुझाव का चयन करें । </target>
+        <target xml:lang="hi" state="needs-translation">Always select the first suggestion.</target>
       </trans-unit>
       <trans-unit id="suggestSelection.recentlyUsed">
         <source xml:lang="en">Select recent suggestions unless further typing selects one, e.g. `console.| -&gt; console.log` because `log` has been completed recently.</source>
@@ -1173,82 +1173,82 @@
       </trans-unit>
       <trans-unit id="suggestSelection">
         <source xml:lang="en">Controls how suggestions are pre-selected when showing the suggest list.</source>
-        <target xml:lang="hi" state="translated">सुझाएं सूची दिखाते समय पूर्व-चयनित सुझावों को कैसे नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls how suggestions are pre-selected when showing the suggest list.</target>
       </trans-unit>
       <trans-unit id="tabCompletion.on">
         <source xml:lang="en">Tab complete will insert the best matching suggestion when pressing tab.</source>
-        <target xml:lang="hi" state="translated">टैब दबाने जब सबसे अच्छा मिलान सुझाव डालने जाएगा टैब पूरा. </target>
+        <target xml:lang="hi" state="needs-translation">Tab complete will insert the best matching suggestion when pressing tab.</target>
       </trans-unit>
       <trans-unit id="tabCompletion.off">
         <source xml:lang="en">Disable tab completions.</source>
-        <target xml:lang="hi" state="translated">टैब पूर्णताएं अक्षम करें । </target>
+        <target xml:lang="hi" state="needs-translation">Disable tab completions.</target>
       </trans-unit>
       <trans-unit id="tabCompletion.onlySnippets">
         <source xml:lang="en">Tab complete snippets when their prefix match. Works best when 'quickSuggestions' aren't enabled.</source>
-        <target xml:lang="hi" state="translated">टैब पूर्ण स्निपेट्स जब उनके उपसर्ग मेल खाते हैं । ' quickSuggestions ' सक्षम नहीं हैं, जब सबसे अच्छा काम करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Tab complete snippets when their prefix match. Works best when 'quickSuggestions' aren't enabled.</target>
       </trans-unit>
       <trans-unit id="tabCompletion">
         <source xml:lang="en">Enables tab completions.</source>
-        <target xml:lang="hi" state="translated">टैब पूर्णता सक्षम करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Enables tab completions.</target>
       </trans-unit>
       <trans-unit id="useTabStops">
         <source xml:lang="en">Inserting and deleting whitespace follows tab stops.</source>
-        <target xml:lang="hi" state="translated">सम्मिलित करना और वाईट शाख टैब स्टॉप को हटाना. </target>
+        <target xml:lang="hi" state="needs-translation">Inserting and deleting whitespace follows tab stops.</target>
       </trans-unit>
       <trans-unit id="wordSeparators">
         <source xml:lang="en">Characters that will be used as word separators when doing word related navigations or operations.</source>
-        <target xml:lang="hi" state="translated">वे वर्ण जो शब्द विभाजक के रूप में उपयोग किए जाएंगे जब शब्द संबंधित नेविगेशन या कार्रवाइयां कर रहे हों ।</target>
+        <target xml:lang="hi" state="needs-translation">Characters that will be used as word separators when doing word related navigations or operations.</target>
       </trans-unit>
       <trans-unit id="wordWrap.off">
         <source xml:lang="en">Lines will never wrap.</source>
-        <target xml:lang="hi" state="translated">रेखाएं कभी रैप नहीं होंगी । </target>
+        <target xml:lang="hi" state="needs-translation">Lines will never wrap.</target>
       </trans-unit>
       <trans-unit id="wordWrap.on">
         <source xml:lang="en">Lines will wrap at the viewport width.</source>
-        <target xml:lang="hi" state="translated">रेखाएं viewport चौड़ाई पर लपेटी जाएंगी । </target>
+        <target xml:lang="hi" state="needs-translation">Lines will wrap at the viewport width.</target>
       </trans-unit>
       <trans-unit id="wordWrap.wordWrapColumn">
         <source xml:lang="en">Lines will wrap at `#editor.wordWrapColumn#`.</source>
         <note>- `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
-        <target xml:lang="hi" state="translated">रेखाएं ' #editor. wordWrapColumn # ' पर लपेटी जाएंगी । </target>
+        <target xml:lang="hi" state="needs-translation">Lines will wrap at `#editor.wordWrapColumn#`.</target>
       </trans-unit>
       <trans-unit id="wordWrap.bounded">
         <source xml:lang="en">Lines will wrap at the minimum of viewport and `#editor.wordWrapColumn#`.</source>
         <note>- viewport means the edge of the visible window size.
 - `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
-        <target xml:lang="hi" state="translated">रेखाएं viewport की ंयूनतम और ' #editor. wordWrapColumn # ' पर रैप होंगी । </target>
+        <target xml:lang="hi" state="needs-translation">Lines will wrap at the minimum of viewport and `#editor.wordWrapColumn#`.</target>
       </trans-unit>
       <trans-unit id="wordWrap">
         <source xml:lang="en">Controls how lines should wrap.</source>
         <note>- 'off', 'on', 'wordWrapColumn' and 'bounded' refer to values the setting can take and should not be localized.
 - `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
-        <target xml:lang="hi" state="translated">रेखाओं को कैसे लपेटना चाहिए नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls how lines should wrap.</target>
       </trans-unit>
       <trans-unit id="wordWrapColumn">
         <source xml:lang="en">Controls the wrapping column of the editor when `#editor.wordWrap#` is `wordWrapColumn` or `bounded`.</source>
         <note>- `editor.wordWrap` refers to a different setting and should not be localized.
 - 'wordWrapColumn' and 'bounded' refer to values the different setting can take and should not be localized.</note>
-        <target xml:lang="hi" state="translated">' #editor. वर्ड रैप # ' ' wordWrapColumn ' या ' बाउंडेड ' होने पर संपादक के रैपिंग स्तंभ को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the wrapping column of the editor when `#editor.wordWrap#` is `wordWrapColumn` or `bounded`.</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.none">
         <source xml:lang="en">No indentation. Wrapped lines begin at column 1.</source>
-        <target xml:lang="hi" state="translated">कोई इंडेंट नहीं । लपेटी गई पंक्तियाँ स्तंभ 1 पर प्रारंभ करें । </target>
+        <target xml:lang="hi" state="needs-translation">No indentation. Wrapped lines begin at column 1.</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.same">
         <source xml:lang="en">Wrapped lines get the same indentation as the parent.</source>
-        <target xml:lang="hi" state="translated">लपेटी गई रेखाओं को पैरेंट के रूप में समान इंडेंट मिलता है । </target>
+        <target xml:lang="hi" state="needs-translation">Wrapped lines get the same indentation as the parent.</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.indent">
         <source xml:lang="en">Wrapped lines get +1 indentation toward the parent.</source>
-        <target xml:lang="hi" state="translated">लपेटी गई रेखाओं को पैरेंट की ओर + 1 इंडेंट मिलता है । </target>
+        <target xml:lang="hi" state="needs-translation">Wrapped lines get +1 indentation toward the parent.</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.deepIndent">
         <source xml:lang="en">Wrapped lines get +2 indentation toward the parent.</source>
-        <target xml:lang="hi" state="translated">लपेटी गई रेखाओं को पैरेंट की ओर + 2 इंडेंट मिलता है । </target>
+        <target xml:lang="hi" state="needs-translation">Wrapped lines get +2 indentation toward the parent.</target>
       </trans-unit>
       <trans-unit id="wrappingIndent">
         <source xml:lang="en">Controls the indentation of wrapped lines.</source>
-        <target xml:lang="hi" state="translated">लपेटी गई रेखाओं के इंडेंट को नियंत्रित करता है । </target>
+        <target xml:lang="hi" state="needs-translation">Controls the indentation of wrapped lines.</target>
       </trans-unit>
       <trans-unit id="wrappingAlgorithm.monospace">
         <source xml:lang="en">Assumes that all characters are of the same width. This is a fast algorithm.</source>
@@ -1268,19 +1268,19 @@
     <body>
       <trans-unit id="label.close">
         <source xml:lang="en">Close</source>
-        <target xml:lang="hi" state="translated">बंद करे</target>
+        <target xml:lang="hi" state="needs-translation">Close</target>
       </trans-unit>
       <trans-unit id="no_lines">
         <source xml:lang="en">no lines</source>
-        <target xml:lang="hi" state="translated">कोई लाइन नहीं</target>
+        <target xml:lang="hi" state="needs-translation">no lines</target>
       </trans-unit>
       <trans-unit id="one_line">
         <source xml:lang="en">1 line</source>
-        <target xml:lang="hi" state="translated">1 पंक्ति </target>
+        <target xml:lang="hi" state="needs-translation">1 line</target>
       </trans-unit>
       <trans-unit id="more_lines">
         <source xml:lang="en">{0} lines</source>
-        <target xml:lang="hi" state="translated">{0} पंक्तियां </target>
+        <target xml:lang="hi" state="needs-translation">{0} lines</target>
       </trans-unit>
       <trans-unit id="header">
         <source xml:lang="en">Difference {0} of {1}: original {2}, {3}, modified {4}, {5}</source>
@@ -1290,31 +1290,31 @@ That encodes that at original line 154 (which is now line 159), 12 lines were re
 Variables 0 and 1 refer to the diff index out of total number of diffs.
 Variables 2 and 4 will be numbers (a line number).
 Variables 3 and 5 will be "no lines", "1 line" or "X lines", localized separately.</note>
-        <target xml:lang="hi" state="translated">{1} का {0} अंतर: मूल {2}, {3}, संशोधित {4}, {5} </target>
+        <target xml:lang="hi" state="needs-translation">Difference {0} of {1}: original {2}, {3}, modified {4}, {5}</target>
       </trans-unit>
       <trans-unit id="blankLine">
         <source xml:lang="en">blank</source>
-        <target xml:lang="hi" state="translated">रिक्त </target>
+        <target xml:lang="hi" state="needs-translation">blank</target>
       </trans-unit>
       <trans-unit id="equalLine">
         <source xml:lang="en">original {0}, modified {1}: {2}</source>
-        <target xml:lang="hi" state="translated">मूल {0}, {1} संशोधित: {2} </target>
+        <target xml:lang="hi" state="needs-translation">original {0}, modified {1}: {2}</target>
       </trans-unit>
       <trans-unit id="insertLine">
         <source xml:lang="en">+ modified {0}: {1}</source>
-        <target xml:lang="hi" state="translated">+ संशोधित {0}: {1} </target>
+        <target xml:lang="hi" state="needs-translation">+ modified {0}: {1}</target>
       </trans-unit>
       <trans-unit id="deleteLine">
         <source xml:lang="en">- original {0}: {1}</source>
-        <target xml:lang="hi" state="translated">-मूल {0}: {1} </target>
+        <target xml:lang="hi" state="needs-translation">- original {0}: {1}</target>
       </trans-unit>
       <trans-unit id="editor.action.diffReview.next">
         <source xml:lang="en">Go to Next Difference</source>
-        <target xml:lang="hi" state="translated">अगले अंतर पर जाएं </target>
+        <target xml:lang="hi" state="needs-translation">Go to Next Difference</target>
       </trans-unit>
       <trans-unit id="editor.action.diffReview.prev">
         <source xml:lang="en">Go to Previous Difference</source>
-        <target xml:lang="hi" state="translated">पिछले अंतर पर जाएं </target>
+        <target xml:lang="hi" state="needs-translation">Go to Previous Difference</target>
       </trans-unit>
     </body>
   </file>
@@ -1322,7 +1322,7 @@ Variables 3 and 5 will be "no lines", "1 line" or "X lines", localized separatel
     <body>
       <trans-unit id="accessibilityOffAriaLabel">
         <source xml:lang="en">The editor is not accessible at this time. Press Alt+F1 for options.</source>
-        <target xml:lang="hi" state="translated">इस समय संपादक पहुंच योग्य नहीं है । विकल्पों के लिए Alt + F1 दबाएं । </target>
+        <target xml:lang="hi" state="needs-translation">The editor is not accessible at this time. Press Alt+F1 for options.</target>
       </trans-unit>
     </body>
   </file>
