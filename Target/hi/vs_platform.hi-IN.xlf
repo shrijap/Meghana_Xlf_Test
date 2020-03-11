@@ -42,9 +42,9 @@
   </file>
   <file original="src/vs/platform/environment/node/argvHelper" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="unknownOption">
+      <trans-unit id="unknownOption" approved="yes">
         <source xml:lang="en">Option '{0}' is unknown. Ignoring.</source>
-        <target xml:lang="hi" state="needs-translation">Option '{0}' is unknown. Ignoring.</target>
+        <target xml:lang="hi" state="final">विकल्प{0}' अज्ञात है. अनदेखी.</target>
       </trans-unit>
       <trans-unit id="multipleValues">
         <source xml:lang="en">Option '{0}' is defined more than once. Using value '{1}.'</source>
