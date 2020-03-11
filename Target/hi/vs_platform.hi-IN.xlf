@@ -26,9 +26,9 @@
         <source xml:lang="en">Enable proxy support for extensions.</source>
         <target xml:lang="hi" state="final">Meghana testing approved translation export</target>
       </trans-unit>
-      <trans-unit id="proxySupportOverride">
+      <trans-unit id="proxySupportOverride" approved="yes">
         <source xml:lang="en">Enable proxy support for extensions, override request options.</source>
-        <target xml:lang="hi" state="needs-translation">Enable proxy support for extensions, override request options.</target>
+        <target xml:lang="hi" state="final">Meghana testing multiple suggestions file - format.</target>
       </trans-unit>
       <trans-unit id="proxySupport">
         <source xml:lang="en">Use the proxy support for extensions.</source>
