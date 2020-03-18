@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="httpConfigurationTitle">
         <source xml:lang="en">HTTP</source>
-        <target xml:lang="hi" state="needs-translation">HTTP</target>
+        <target xml:lang="hi" state="translated">Testing Frist</target>
       </trans-unit>
       <trans-unit id="proxy">
         <source xml:lang="en">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</source>
