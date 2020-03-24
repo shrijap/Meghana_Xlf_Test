@@ -5,6 +5,9 @@
       <trans-unit id="httpConfigurationTitle">
         <source xml:lang="en">HTTP</source>
         <target xml:lang="hi" state="translated">Testing Frist</target>
+        <alt-trans>
+          <target xml:lang="hi">Testing translated by Meg_GAR</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="proxy">
         <source xml:lang="en">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</source>
@@ -13,10 +16,22 @@
       <trans-unit id="strictSSL" approved="yes">
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
         <target xml:lang="hi" state="final">Meghana testing the final from MOR but with a different community suggestions..</target>
+        <alt-trans>
+          <target xml:lang="hi">Meghana testing the final from MOR but with a different community suggestions.. - tadding updates after approval</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">नियंत्रित करता है कि क्या प्रॉक्सी सर्वर प्रमाणपत्र को प्रदान किए गए CAs की सूची के साथ सत्यापित किया जाना चाहिए.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Testing translation which will be different from MOR suggestion</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="proxyAuthorization" approved="yes">
         <source xml:lang="en">The value to send as the `Proxy-Authorization` header for every network request.</source>
         <target xml:lang="hi" state="final">Translation approved from Crowdin UI MEG</target>
+        <alt-trans>
+          <target xml:lang="hi">Translation approved from Crowdin UI MEG -- Testing an update after approval</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="proxySupportOff">
         <source xml:lang="en">Disable proxy support for extensions.</source>
@@ -25,10 +40,16 @@
       <trans-unit id="proxySupportOn" approved="yes">
         <source xml:lang="en">Enable proxy support for extensions.</source>
         <target xml:lang="hi" state="final">Meghana testing approved translation export</target>
+        <alt-trans>
+          <target xml:lang="hi">एक्सटेंशन के लिए प्रॉक्सी समर्थन अक्षम करें.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="proxySupportOverride" approved="yes">
         <source xml:lang="en">Enable proxy support for extensions, override request options.</source>
         <target xml:lang="hi" state="final">Meghana testing multiple suggestions file - format.</target>
+        <alt-trans>
+          <target xml:lang="hi">एक्सटेंशन के लिए प्रॉक्सी समर्थन को सक्षम करें, अनुरोध विकल्प ओवरराइड करें.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="proxySupport">
         <source xml:lang="en">Use the proxy support for extensions.</source>
@@ -45,10 +66,16 @@
       <trans-unit id="unknownOption" approved="yes">
         <source xml:lang="en">Option '{0}' is unknown. Ignoring.</source>
         <target xml:lang="hi" state="final">विकल्प{0}' अज्ञात है. अनदेखी.</target>
+        <alt-trans>
+          <target xml:lang="hi">testing after approval</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="multipleValues">
         <source xml:lang="en">Option '{0}' is defined more than once. Using value '{1}.'</source>
         <target xml:lang="hi" state="translated">test meghana 03_12 Second translation</target>
+        <alt-trans>
+          <target xml:lang="hi">test meghana 03_12</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="gotoValidation">
         <source xml:lang="en">Arguments in `--goto` mode should be in the format of `FILE(:LINE(:CHARACTER))`.</source>
@@ -73,10 +100,16 @@
       <trans-unit id="manual">
         <source xml:lang="en">Disable automatic background update checks. Updates will be available if you manually check for updates.</source>
         <target xml:lang="hi" state="translated">Test translation community user not approved.</target>
+        <alt-trans>
+          <target xml:lang="hi">स्वचालित पृष्ठभूमि अद्यतन जाँच अक्षम करें. यदि आप अद्यतन के लिए मैन्युअल रूप से जाँचते हैं, तो अद्यतन उपलब्ध होंगे.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="start" approved="yes">
         <source xml:lang="en">Check for updates only on startup. Disable automatic background update checks.</source>
         <target xml:lang="hi" state="final">Test translation</target>
+        <alt-trans>
+          <target xml:lang="hi">केवल स्टार्टअप पर अद्यतन के लिए जाँचें. स्वचालित पृष्ठभूमि अद्यतन जाँच अक्षम करें.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="default">
         <source xml:lang="en">Enable automatic update checks. Code will check for updates automatically and periodically.</source>
