@@ -72,11 +72,11 @@
       </trans-unit>
       <trans-unit id="manual">
         <source xml:lang="en">Disable automatic background update checks. Updates will be available if you manually check for updates.</source>
-        <target xml:lang="hi" state="translated">स्वचालित पृष्ठभूमि अद्यतन जाँच अक्षम करें. यदि आप अद्यतन के लिए मैन्युअल रूप से जाँचते हैं, तो अद्यतन उपलब्ध होंगे.</target>
+        <target xml:lang="hi" state="translated">Test translation community user not approved.</target>
       </trans-unit>
-      <trans-unit id="start">
+      <trans-unit id="start" approved="yes">
         <source xml:lang="en">Check for updates only on startup. Disable automatic background update checks.</source>
-        <target xml:lang="hi" state="translated">केवल स्टार्टअप पर अद्यतन के लिए जाँचें. स्वचालित पृष्ठभूमि अद्यतन जाँच अक्षम करें.</target>
+        <target xml:lang="hi" state="final">Test translation</target>
       </trans-unit>
       <trans-unit id="default">
         <source xml:lang="en">Enable automatic update checks. Code will check for updates automatically and periodically.</source>
