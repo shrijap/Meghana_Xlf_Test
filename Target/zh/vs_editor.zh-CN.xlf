@@ -4,219 +4,219 @@
     <body>
       <trans-unit id="noSelection">
         <source xml:lang="en">No selection</source>
-        <target xml:lang="zh-CN" state="needs-translation">No selection</target>
+        <target xml:lang="zh-CN" state="translated">无选定内容</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line {0}, Column {1} ({2} selected)</target>
+        <target xml:lang="zh-CN" state="translated">明细 {0}、列 {1} ({2} 选项</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line {0}, Column {1}</target>
+        <target xml:lang="zh-CN" state="translated">明细 {0}、列 {1}</target>
       </trans-unit>
       <trans-unit id="multiSelectionRange">
         <source xml:lang="en">{0} selections ({1} characters selected)</source>
-        <target xml:lang="zh-CN" state="needs-translation">{0} selections ({1} characters selected)</target>
+        <target xml:lang="zh-CN" state="translated">{0} 做出{1} 已选择字符）</target>
       </trans-unit>
       <trans-unit id="multiSelection">
         <source xml:lang="en">{0} selections</source>
-        <target xml:lang="zh-CN" state="needs-translation">{0} selections</target>
+        <target xml:lang="zh-CN" state="translated">{0} 做出</target>
       </trans-unit>
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Now changing the setting `accessibilitySupport` to 'on'.</target>
+        <target xml:lang="zh-CN" state="translated">正在将设置 "accessibilitySupport" 更改为 "on"。</target>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Now opening the Editor Accessibility documentation page.</target>
+        <target xml:lang="zh-CN" state="translated">现在打开编辑器辅助功能文档页。</target>
       </trans-unit>
       <trans-unit id="readonlyDiffEditor">
         <source xml:lang="en"> in a read-only pane of a diff editor.</source>
-        <target xml:lang="zh-CN" state="needs-translation"> in a read-only pane of a diff editor.</target>
+        <target xml:lang="zh-CN" state="translated"> 在差异编辑器的只读窗格中。</target>
       </trans-unit>
       <trans-unit id="editableDiffEditor">
         <source xml:lang="en"> in a pane of a diff editor.</source>
-        <target xml:lang="zh-CN" state="needs-translation"> in a pane of a diff editor.</target>
+        <target xml:lang="zh-CN" state="translated"> 在比较编辑器的窗格中。</target>
       </trans-unit>
       <trans-unit id="readonlyEditor">
         <source xml:lang="en"> in a read-only code editor</source>
-        <target xml:lang="zh-CN" state="needs-translation"> in a read-only code editor</target>
+        <target xml:lang="zh-CN" state="translated"> 在只读代码编辑器中</target>
       </trans-unit>
       <trans-unit id="editableEditor">
         <source xml:lang="en"> in a code editor</source>
-        <target xml:lang="zh-CN" state="needs-translation"> in a code editor</target>
+        <target xml:lang="zh-CN" state="translated"> 在代码编辑器中</target>
       </trans-unit>
       <trans-unit id="changeConfigToOnMac">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Command+E now.</source>
-        <target xml:lang="zh-CN" state="needs-translation">To configure the editor to be optimized for usage with a Screen Reader press Command+E now.</target>
+        <target xml:lang="zh-CN" state="translated">若要将编辑器配置为在屏幕阅读器使用时进行优化，请立即按 Command + E。</target>
       </trans-unit>
       <trans-unit id="changeConfigToOnWinLinux">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Control+E now.</source>
-        <target xml:lang="zh-CN" state="needs-translation">To configure the editor to be optimized for usage with a Screen Reader press Control+E now.</target>
+        <target xml:lang="zh-CN" state="translated">若要将编辑器配置为使用屏幕读取器进行优化，请立即按 Ctrl + E。</target>
       </trans-unit>
       <trans-unit id="auto_on">
         <source xml:lang="en">The editor is configured to be optimized for usage with a Screen Reader.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor is configured to be optimized for usage with a Screen Reader.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器被配置为在屏幕阅读器使用时进行优化。</target>
       </trans-unit>
       <trans-unit id="auto_off">
         <source xml:lang="en">The editor is configured to never be optimized for usage with a Screen Reader, which is not the case at this time.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor is configured to never be optimized for usage with a Screen Reader, which is not the case at this time.</target>
+        <target xml:lang="zh-CN" state="translated">在屏幕阅读器（此时不是这种情况下），编辑器被配置为永不优化使用。</target>
       </trans-unit>
       <trans-unit id="tabFocusModeOnMsg">
         <source xml:lang="en">Pressing Tab in the current editor will move focus to the next focusable element. Toggle this behavior by pressing {0}.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Pressing Tab in the current editor will move focus to the next focusable element. Toggle this behavior by pressing {0}.</target>
+        <target xml:lang="zh-CN" state="translated">在当前编辑器中按 Tab 将焦点移到下一个可设定焦点的元素。按以下方式切换此行为 {0}.</target>
       </trans-unit>
       <trans-unit id="tabFocusModeOnMsgNoKb">
         <source xml:lang="en">Pressing Tab in the current editor will move focus to the next focusable element. The command {0} is currently not triggerable by a keybinding.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Pressing Tab in the current editor will move focus to the next focusable element. The command {0} is currently not triggerable by a keybinding.</target>
+        <target xml:lang="zh-CN" state="translated">在当前编辑器中按 Tab 将焦点移到下一个可设定焦点的元素。该命令 {0} 当前未由键绑定 triggerable。</target>
       </trans-unit>
       <trans-unit id="tabFocusModeOffMsg">
         <source xml:lang="en">Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing {0}.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing {0}.</target>
+        <target xml:lang="zh-CN" state="translated">在当前编辑器中按 Tab 键将插入制表符。按以下方式切换此行为 {0}.</target>
       </trans-unit>
       <trans-unit id="tabFocusModeOffMsgNoKb">
         <source xml:lang="en">Pressing Tab in the current editor will insert the tab character. The command {0} is currently not triggerable by a keybinding.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Pressing Tab in the current editor will insert the tab character. The command {0} is currently not triggerable by a keybinding.</target>
+        <target xml:lang="zh-CN" state="translated">在当前编辑器中按 Tab 键将插入制表符。该命令 {0} 当前未由键绑定 triggerable。</target>
       </trans-unit>
       <trans-unit id="openDocMac">
         <source xml:lang="en">Press Command+H now to open a browser window with more information related to editor accessibility.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Press Command+H now to open a browser window with more information related to editor accessibility.</target>
+        <target xml:lang="zh-CN" state="translated">立即按 Command + H 以使用与编辑器可访问性相关的详细信息打开浏览器窗口。</target>
       </trans-unit>
       <trans-unit id="openDocWinLinux">
         <source xml:lang="en">Press Control+H now to open a browser window with more information related to editor accessibility.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Press Control+H now to open a browser window with more information related to editor accessibility.</target>
+        <target xml:lang="zh-CN" state="translated">立即按 Ctrl + H 以使用与编辑器可访问性相关的详细信息打开浏览器窗口。</target>
       </trans-unit>
       <trans-unit id="outroMsg">
         <source xml:lang="en">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</source>
-        <target xml:lang="zh-CN" state="needs-translation">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</target>
+        <target xml:lang="zh-CN" state="translated">可以消除此工具提示，并通过按 Escape 或 Shift + Escape 返回到编辑器。</target>
       </trans-unit>
       <trans-unit id="showAccessibilityHelpAction">
         <source xml:lang="en">Show Accessibility Help</source>
-        <target xml:lang="zh-CN" state="needs-translation">Show Accessibility Help</target>
+        <target xml:lang="zh-CN" state="translated">显示辅助功能帮助</target>
       </trans-unit>
       <trans-unit id="inspectTokens">
         <source xml:lang="en">Developer: Inspect Tokens</source>
-        <target xml:lang="zh-CN" state="needs-translation">Developer: Inspect Tokens</target>
+        <target xml:lang="zh-CN" state="translated">开发人员：检查标记</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLineAndColumn">
         <source xml:lang="en">Go to line {0} and character {1}</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to line {0} and character {1}</target>
+        <target xml:lang="zh-CN" state="translated">转到行 {0} 和字符 {1}</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLine">
         <source xml:lang="en">Go to line {0}</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to line {0}</target>
+        <target xml:lang="zh-CN" state="translated">转到行 {0}</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelEmptyWithLineLimit">
         <source xml:lang="en">Type a line number between 1 and {0} to navigate to</source>
-        <target xml:lang="zh-CN" state="needs-translation">Type a line number between 1 and {0} to navigate to</target>
+        <target xml:lang="zh-CN" state="translated">键入介于1和之间的行号 {0} 导航到</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelEmptyWithLineAndColumnLimit">
         <source xml:lang="en">Type a character between 1 and {0} to navigate to</source>
-        <target xml:lang="zh-CN" state="needs-translation">Type a character between 1 and {0} to navigate to</target>
+        <target xml:lang="zh-CN" state="translated">键入一个介于1和之间的字符 {0} 导航到</target>
       </trans-unit>
       <trans-unit id="gotoLineAriaLabel">
         <source xml:lang="en">Current Line: {0}. Go to line {1}.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Current Line: {0}. Go to line {1}.</target>
+        <target xml:lang="zh-CN" state="translated">当前行： {0}.转到行 {1}.</target>
       </trans-unit>
       <trans-unit id="gotoLineActionInput">
         <source xml:lang="en">Type a line number, followed by an optional colon and a character number to navigate to</source>
-        <target xml:lang="zh-CN" state="needs-translation">Type a line number, followed by an optional colon and a character number to navigate to</target>
+        <target xml:lang="zh-CN" state="translated">键入行号，后跟可选的冒号和要导航到的字符号</target>
       </trans-unit>
       <trans-unit id="gotoLineActionLabel">
         <source xml:lang="en">Go to Line...</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to Line...</target>
+        <target xml:lang="zh-CN" state="translated">转到行 .。。</target>
       </trans-unit>
       <trans-unit id="ariaLabelEntryWithKey">
         <source xml:lang="en">{0}, {1}, commands</source>
-        <target xml:lang="zh-CN" state="needs-translation">{0}, {1}, commands</target>
+        <target xml:lang="zh-CN" state="translated">{0}, {1}、命令</target>
       </trans-unit>
       <trans-unit id="ariaLabelEntry">
         <source xml:lang="en">{0}, commands</source>
-        <target xml:lang="zh-CN" state="needs-translation">{0}, commands</target>
+        <target xml:lang="zh-CN" state="translated">{0}、命令</target>
       </trans-unit>
       <trans-unit id="quickCommandActionInput">
         <source xml:lang="en">Type the name of an action you want to execute</source>
-        <target xml:lang="zh-CN" state="needs-translation">Type the name of an action you want to execute</target>
+        <target xml:lang="zh-CN" state="translated">键入要执行的操作的名称</target>
       </trans-unit>
       <trans-unit id="quickCommandActionLabel">
         <source xml:lang="en">Command Palette</source>
-        <target xml:lang="zh-CN" state="needs-translation">Command Palette</target>
+        <target xml:lang="zh-CN" state="translated">命令面板</target>
       </trans-unit>
       <trans-unit id="entryAriaLabel">
         <source xml:lang="en">{0}, symbols</source>
-        <target xml:lang="zh-CN" state="needs-translation">{0}, symbols</target>
+        <target xml:lang="zh-CN" state="translated">{0}、符号</target>
       </trans-unit>
       <trans-unit id="quickOutlineActionInput">
         <source xml:lang="en">Type the name of an identifier you wish to navigate to</source>
-        <target xml:lang="zh-CN" state="needs-translation">Type the name of an identifier you wish to navigate to</target>
+        <target xml:lang="zh-CN" state="translated">键入要导航到的标识符的名称</target>
       </trans-unit>
       <trans-unit id="quickOutlineActionLabel">
         <source xml:lang="en">Go to Symbol...</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to Symbol...</target>
+        <target xml:lang="zh-CN" state="translated">转到符号 .。。</target>
       </trans-unit>
       <trans-unit id="symbols">
         <source xml:lang="en">symbols ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">symbols ({0})</target>
+        <target xml:lang="zh-CN" state="translated">标志{0})</target>
       </trans-unit>
       <trans-unit id="modules">
         <source xml:lang="en">modules ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">modules ({0})</target>
+        <target xml:lang="zh-CN" state="translated">模块{0})</target>
       </trans-unit>
       <trans-unit id="class">
         <source xml:lang="en">classes ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">classes ({0})</target>
+        <target xml:lang="zh-CN" state="translated">组件类{0})</target>
       </trans-unit>
       <trans-unit id="interface">
         <source xml:lang="en">interfaces ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">interfaces ({0})</target>
+        <target xml:lang="zh-CN" state="translated">接口{0})</target>
       </trans-unit>
       <trans-unit id="method">
         <source xml:lang="en">methods ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">methods ({0})</target>
+        <target xml:lang="zh-CN" state="translated">方法{0})</target>
       </trans-unit>
       <trans-unit id="function">
         <source xml:lang="en">functions ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">functions ({0})</target>
+        <target xml:lang="zh-CN" state="translated">正常{0})</target>
       </trans-unit>
       <trans-unit id="property">
         <source xml:lang="en">properties ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">properties ({0})</target>
+        <target xml:lang="zh-CN" state="translated">属性{0})</target>
       </trans-unit>
       <trans-unit id="variable">
         <source xml:lang="en">variables ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">variables ({0})</target>
+        <target xml:lang="zh-CN" state="translated">variables{0})</target>
       </trans-unit>
       <trans-unit id="variable2">
         <source xml:lang="en">variables ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">variables ({0})</target>
+        <target xml:lang="zh-CN" state="translated">variables{0})</target>
       </trans-unit>
       <trans-unit id="_constructor">
         <source xml:lang="en">constructors ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">constructors ({0})</target>
+        <target xml:lang="zh-CN" state="translated">构造函数{0})</target>
       </trans-unit>
       <trans-unit id="call">
         <source xml:lang="en">calls ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">calls ({0})</target>
+        <target xml:lang="zh-CN" state="translated">调用{0})</target>
       </trans-unit>
       <trans-unit id="editorViewAccessibleLabel_Duplicated1">
         <source xml:lang="en">Editor content</source>
-        <target xml:lang="zh-CN" state="needs-translation">Editor content</target>
+        <target xml:lang="zh-CN" state="translated">编辑器内容</target>
       </trans-unit>
       <trans-unit id="accessibilityHelpMessageIE">
         <source xml:lang="en">Press Ctrl+F1 for Accessibility Options.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Press Ctrl+F1 for Accessibility Options.</target>
+        <target xml:lang="zh-CN" state="translated">按 Ctrl + F1 可查看辅助功能选项。</target>
       </trans-unit>
       <trans-unit id="accessibilityHelpMessage">
         <source xml:lang="en">Press Alt+F1 for Accessibility Options.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Press Alt+F1 for Accessibility Options.</target>
+        <target xml:lang="zh-CN" state="translated">按 Alt + F1 可查看辅助功能选项。</target>
       </trans-unit>
       <trans-unit id="toggleHighContrast">
         <source xml:lang="en">Toggle High Contrast Theme</source>
-        <target xml:lang="zh-CN" state="needs-translation">Toggle High Contrast Theme</target>
+        <target xml:lang="zh-CN" state="translated">切换高对比度主题</target>
       </trans-unit>
       <trans-unit id="bulkEditServiceSummary">
         <source xml:lang="en">Made {0} edits in {1} files</source>
-        <target xml:lang="zh-CN" state="needs-translation">Made {0} edits in {1} files</target>
+        <target xml:lang="zh-CN" state="translated">进行 {0} 编辑 {1} 文本文件</target>
       </trans-unit>
     </body>
   </file>
@@ -224,7 +224,7 @@
     <body>
       <trans-unit id="plainText.alias">
         <source xml:lang="en">Plain Text</source>
-        <target xml:lang="zh-CN" state="needs-translation">Plain Text</target>
+        <target xml:lang="zh-CN" state="translated">纯文本</target>
       </trans-unit>
     </body>
   </file>
@@ -232,107 +232,107 @@
     <body>
       <trans-unit id="lineHighlight">
         <source xml:lang="en">Background color for the highlight of line at the cursor position.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color for the highlight of line at the cursor position.</target>
+        <target xml:lang="zh-CN" state="translated">光标所在行的突出显示背景颜色。</target>
       </trans-unit>
       <trans-unit id="lineHighlightBorderBox">
         <source xml:lang="en">Background color for the border around the line at the cursor position.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color for the border around the line at the cursor position.</target>
+        <target xml:lang="zh-CN" state="translated">光标位置处线条周围边框的背景色。</target>
       </trans-unit>
       <trans-unit id="rangeHighlight">
         <source xml:lang="en">Background color of highlighted ranges, like by quick open and find features. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color of highlighted ranges, like by quick open and find features. The color must not be opaque so as not to hide underlying decorations.</target>
+        <target xml:lang="zh-CN" state="translated">突出显示范围的背景颜色，例如 "快速打开" 和 "查找" 功能。颜色不能不透明，以免隐藏底层修饰。</target>
       </trans-unit>
       <trans-unit id="rangeHighlightBorder">
         <source xml:lang="en">Background color of the border around highlighted ranges.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color of the border around highlighted ranges.</target>
+        <target xml:lang="zh-CN" state="translated">突出显示范围周围的边框的背景色。</target>
       </trans-unit>
       <trans-unit id="symbolHighlight">
         <source xml:lang="en">Background color of highlighted symbol, like for go to definition or go next/previous symbol. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color of highlighted symbol, like for go to definition or go next/previous symbol. The color must not be opaque so as not to hide underlying decorations.</target>
+        <target xml:lang="zh-CN" state="translated">突出显示符号的背景颜色，例如 "转到定义" 或 "转到下一个/上一个" 符号。颜色不能不透明，以免隐藏底层修饰。</target>
       </trans-unit>
       <trans-unit id="symbolHighlightBorder">
         <source xml:lang="en">Background color of the border around highlighted symbols.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color of the border around highlighted symbols.</target>
+        <target xml:lang="zh-CN" state="translated">突出显示符号周围的边框的背景色。</target>
       </trans-unit>
       <trans-unit id="caret">
         <source xml:lang="en">Color of the editor cursor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of the editor cursor.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器游标的颜色。</target>
       </trans-unit>
       <trans-unit id="editorCursorBackground">
         <source xml:lang="en">The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器游标的背景色。允许自定义块光标所重叠字符的颜色。</target>
       </trans-unit>
       <trans-unit id="editorWhitespaces">
         <source xml:lang="en">Color of whitespace characters in the editor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of whitespace characters in the editor.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器中的空白字符的颜色。</target>
       </trans-unit>
       <trans-unit id="editorIndentGuides">
         <source xml:lang="en">Color of the editor indentation guides.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of the editor indentation guides.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器缩进参考线的颜色。</target>
       </trans-unit>
       <trans-unit id="editorActiveIndentGuide">
         <source xml:lang="en">Color of the active editor indentation guides.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of the active editor indentation guides.</target>
+        <target xml:lang="zh-CN" state="translated">活动编辑器缩进参考线的颜色。</target>
       </trans-unit>
       <trans-unit id="editorLineNumbers">
         <source xml:lang="en">Color of editor line numbers.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of editor line numbers.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器行号的颜色。</target>
       </trans-unit>
       <trans-unit id="editorActiveLineNumber">
         <source xml:lang="en">Color of editor active line number</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of editor active line number</target>
+        <target xml:lang="zh-CN" state="translated">编辑器活动行号的颜色</target>
       </trans-unit>
       <trans-unit id="deprecatedEditorActiveLineNumber">
         <source xml:lang="en">Id is deprecated. Use 'editorLineNumber.activeForeground' instead.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Id is deprecated. Use 'editorLineNumber.activeForeground' instead.</target>
+        <target xml:lang="zh-CN" state="translated">Id 已弃用。请改用 "editorLineNumber. activeForeground"。</target>
       </trans-unit>
       <trans-unit id="editorRuler">
         <source xml:lang="en">Color of the editor rulers.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of the editor rulers.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器标尺的颜色。</target>
       </trans-unit>
       <trans-unit id="editorCodeLensForeground">
         <source xml:lang="en">Foreground color of editor code lenses</source>
-        <target xml:lang="zh-CN" state="needs-translation">Foreground color of editor code lenses</target>
+        <target xml:lang="zh-CN" state="translated">编辑器代码滤镜的前景色</target>
       </trans-unit>
       <trans-unit id="editorBracketMatchBackground">
         <source xml:lang="en">Background color behind matching brackets</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color behind matching brackets</target>
+        <target xml:lang="zh-CN" state="translated">匹配方括号后面的背景色</target>
       </trans-unit>
       <trans-unit id="editorBracketMatchBorder">
         <source xml:lang="en">Color for matching brackets boxes</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color for matching brackets boxes</target>
+        <target xml:lang="zh-CN" state="translated">匹配方括号框的颜色</target>
       </trans-unit>
       <trans-unit id="editorOverviewRulerBorder">
         <source xml:lang="en">Color of the overview ruler border.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Color of the overview ruler border.</target>
+        <target xml:lang="zh-CN" state="translated">概述标尺边框的颜色。</target>
       </trans-unit>
       <trans-unit id="editorGutter">
         <source xml:lang="en">Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器槽的背景色。装订线包含字形边距和行号。</target>
       </trans-unit>
       <trans-unit id="unnecessaryCodeBorder">
         <source xml:lang="en">Border color of unnecessary (unused) source code in the editor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Border color of unnecessary (unused) source code in the editor.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器中不必要（未使用）的源代码的边框颜色。</target>
       </trans-unit>
       <trans-unit id="unnecessaryCodeOpacity">
         <source xml:lang="en">Opacity of unnecessary (unused) source code in the editor. For example, "#000000c0" will render the code with 75% opacity. For high contrast themes, use the  'editorUnnecessaryCode.border' theme color to underline unnecessary code instead of fading it out.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Opacity of unnecessary (unused) source code in the editor. For example, "#000000c0" will render the code with 75% opacity. For high contrast themes, use the  'editorUnnecessaryCode.border' theme color to underline unnecessary code instead of fading it out.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器中不必要的（未使用的）源代码的不透明度。例如，"#000000c0" 将呈现75% 不透明度的代码。对于高对比度主题，请使用 "editorUnnecessaryCode. 边框" 主题颜色为不必要的代码添加下划线，而不是淡化掉。</target>
       </trans-unit>
       <trans-unit id="overviewRulerRangeHighlight">
         <source xml:lang="en">Overview ruler marker color for range highlights. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Overview ruler marker color for range highlights. The color must not be opaque so as not to hide underlying decorations.</target>
+        <target xml:lang="zh-CN" state="translated">范围突出显示的概述标尺标记颜色。颜色不能不透明，以免隐藏底层修饰。</target>
       </trans-unit>
       <trans-unit id="overviewRuleError">
         <source xml:lang="en">Overview ruler marker color for errors.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Overview ruler marker color for errors.</target>
+        <target xml:lang="zh-CN" state="translated">错误概述标尺标记颜色。</target>
       </trans-unit>
       <trans-unit id="overviewRuleWarning">
         <source xml:lang="en">Overview ruler marker color for warnings.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Overview ruler marker color for warnings.</target>
+        <target xml:lang="zh-CN" state="translated">警告的概述标尺标记颜色。</target>
       </trans-unit>
       <trans-unit id="overviewRuleInfo">
         <source xml:lang="en">Overview ruler marker color for infos.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Overview ruler marker color for infos.</target>
+        <target xml:lang="zh-CN" state="translated">信息的概述标尺标记颜色。</target>
       </trans-unit>
     </body>
   </file>
@@ -340,55 +340,55 @@
     <body>
       <trans-unit id="editorConfigurationTitle">
         <source xml:lang="en">Editor</source>
-        <target xml:lang="zh-CN" state="needs-translation">Editor</target>
+        <target xml:lang="zh-CN" state="translated">者</target>
       </trans-unit>
       <trans-unit id="tabSize">
         <source xml:lang="en">The number of spaces a tab is equal to. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The number of spaces a tab is equal to. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</target>
+        <target xml:lang="zh-CN" state="translated">选项卡所等于的空格数。当 "#editor. detectIndentation #" 打开时，将根据文件内容重写此设置。</target>
       </trans-unit>
       <trans-unit id="insertSpaces">
         <source xml:lang="en">Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</target>
+        <target xml:lang="zh-CN" state="translated">按 "Tab" 时插入空格。当 "#editor. detectIndentation #" 打开时，将根据文件内容重写此设置。</target>
       </trans-unit>
       <trans-unit id="detectIndentation">
         <source xml:lang="en">Controls whether `#editor.tabSize#` and `#editor.insertSpaces#` will be automatically detected when a file is opened based on the file contents.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether `#editor.tabSize#` and `#editor.insertSpaces#` will be automatically detected when a file is opened based on the file contents.</target>
+        <target xml:lang="zh-CN" state="translated">控制根据文件内容打开文件时，是否自动检测 "#editor Editor.tabsize #" 和 "#editor #"。</target>
       </trans-unit>
       <trans-unit id="trimAutoWhitespace">
         <source xml:lang="en">Remove trailing auto inserted whitespace.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Remove trailing auto inserted whitespace.</target>
+        <target xml:lang="zh-CN" state="translated">删除尾随自动插入的空格。</target>
       </trans-unit>
       <trans-unit id="largeFileOptimizations">
         <source xml:lang="en">Special handling for large files to disable certain memory intensive features.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Special handling for large files to disable certain memory intensive features.</target>
+        <target xml:lang="zh-CN" state="translated">对大型文件的特殊处理，以禁用某些内存密集型功能。</target>
       </trans-unit>
       <trans-unit id="wordBasedSuggestions">
         <source xml:lang="en">Controls whether completions should be computed based on words in the document.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether completions should be computed based on words in the document.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否应根据文档中的字数计算是否完成。</target>
       </trans-unit>
       <trans-unit id="stablePeek">
         <source xml:lang="en">Keep peek editors open even when double clicking their content or when hitting `Escape`.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Keep peek editors open even when double clicking their content or when hitting `Escape`.</target>
+        <target xml:lang="zh-CN" state="translated">即使在双击编辑器的内容或命中 "Escape" 时仍保持 peek 编辑器处于打开状态。</target>
       </trans-unit>
       <trans-unit id="maxTokenizationLineLength">
         <source xml:lang="en">Lines above this length will not be tokenized for performance reasons</source>
-        <target xml:lang="zh-CN" state="needs-translation">Lines above this length will not be tokenized for performance reasons</target>
+        <target xml:lang="zh-CN" state="translated">出于性能原因，不会标记高于此长度的行</target>
       </trans-unit>
       <trans-unit id="maxComputationTime">
         <source xml:lang="en">Timeout in milliseconds after which diff computation is cancelled. Use 0 for no timeout.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Timeout in milliseconds after which diff computation is cancelled. Use 0 for no timeout.</target>
+        <target xml:lang="zh-CN" state="translated">取消比较计算后超时（毫秒）。使用0表示无超时。</target>
       </trans-unit>
       <trans-unit id="sideBySide">
         <source xml:lang="en">Controls whether the diff editor shows the diff side by side or inline.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the diff editor shows the diff side by side or inline.</target>
+        <target xml:lang="zh-CN" state="translated">控制比较编辑器是并排还是内联显示差异。</target>
       </trans-unit>
       <trans-unit id="ignoreTrimWhitespace">
         <source xml:lang="en">Controls whether the diff editor shows changes in leading or trailing whitespace as diffs.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the diff editor shows changes in leading or trailing whitespace as diffs.</target>
+        <target xml:lang="zh-CN" state="translated">控制比较编辑器是否显示前导或尾随空格中的更改作为差异。</target>
       </trans-unit>
       <trans-unit id="renderIndicators">
         <source xml:lang="en">Controls whether the diff editor shows +/- indicators for added/removed changes.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the diff editor shows +/- indicators for added/removed changes.</target>
+        <target xml:lang="zh-CN" state="translated">控制比较编辑器是否显示用于添加/删除更改的 +/-指示符。</target>
       </trans-unit>
     </body>
   </file>
@@ -397,17 +397,17 @@
       <trans-unit id="miSelectAll">
         <source xml:lang="en">&amp;&amp;Select All</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="zh-CN" state="needs-translation">&amp;&amp;Select All</target>
+        <target xml:lang="zh-CN" state="translated">&amp;&amp;全选</target>
       </trans-unit>
       <trans-unit id="miUndo">
         <source xml:lang="en">&amp;&amp;Undo</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="zh-CN" state="needs-translation">&amp;&amp;Undo</target>
+        <target xml:lang="zh-CN" state="translated">&amp;&amp;做</target>
       </trans-unit>
       <trans-unit id="miRedo">
         <source xml:lang="en">&amp;&amp;Redo</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="zh-CN" state="needs-translation">&amp;&amp;Redo</target>
+        <target xml:lang="zh-CN" state="translated">&amp;&amp;无偿</target>
       </trans-unit>
     </body>
   </file>
@@ -415,7 +415,7 @@
     <body>
       <trans-unit id="cursors.maximum">
         <source xml:lang="en">The number of cursors has been limited to {0}.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The number of cursors has been limited to {0}.</target>
+        <target xml:lang="zh-CN" state="translated">游标数已限制为 {0}.</target>
       </trans-unit>
     </body>
   </file>
@@ -423,7 +423,7 @@
     <body>
       <trans-unit id="diff.tooLarge">
         <source xml:lang="en">Cannot compare files because one file is too large.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Cannot compare files because one file is too large.</target>
+        <target xml:lang="zh-CN" state="translated">无法比较文件，因为一个文件过大。</target>
       </trans-unit>
     </body>
   </file>
@@ -431,19 +431,19 @@
     <body>
       <trans-unit id="diff.clipboard.copyDeletedLinesContent.label">
         <source xml:lang="en">Copy deleted lines</source>
-        <target xml:lang="zh-CN" state="needs-translation">Copy deleted lines</target>
+        <target xml:lang="zh-CN" state="translated">复制已删除的行</target>
       </trans-unit>
       <trans-unit id="diff.clipboard.copyDeletedLinesContent.single.label">
         <source xml:lang="en">Copy deleted line</source>
-        <target xml:lang="zh-CN" state="needs-translation">Copy deleted line</target>
+        <target xml:lang="zh-CN" state="translated">复制已删除的行</target>
       </trans-unit>
       <trans-unit id="diff.clipboard.copyDeletedLineContent.label">
         <source xml:lang="en">Copy deleted line ({0})</source>
-        <target xml:lang="zh-CN" state="needs-translation">Copy deleted line ({0})</target>
+        <target xml:lang="zh-CN" state="translated">复制已删除的行（{0})</target>
       </trans-unit>
       <trans-unit id="diff.inline.revertChange.label">
         <source xml:lang="en">Revert this change</source>
-        <target xml:lang="zh-CN" state="needs-translation">Revert this change</target>
+        <target xml:lang="zh-CN" state="translated">还原此更改</target>
       </trans-unit>
     </body>
   </file>
@@ -451,816 +451,816 @@
     <body>
       <trans-unit id="accessibilitySupport.auto">
         <source xml:lang="en">The editor will use platform APIs to detect when a Screen Reader is attached.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will use platform APIs to detect when a Screen Reader is attached.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器将使用平台 Api 来检测何时附加屏幕阅读器。</target>
       </trans-unit>
       <trans-unit id="accessibilitySupport.on">
         <source xml:lang="en">The editor will be permanently optimized for usage with a Screen Reader.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will be permanently optimized for usage with a Screen Reader.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器将被永久优化，以使用屏幕阅读器。</target>
       </trans-unit>
       <trans-unit id="accessibilitySupport.off">
         <source xml:lang="en">The editor will never be optimized for usage with a Screen Reader.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will never be optimized for usage with a Screen Reader.</target>
+        <target xml:lang="zh-CN" state="translated">在使用屏幕阅读器时，将永远不会优化编辑器的使用。</target>
       </trans-unit>
       <trans-unit id="accessibilitySupport">
         <source xml:lang="en">Controls whether the editor should run in a mode where it is optimized for screen readers.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should run in a mode where it is optimized for screen readers.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应在针对屏幕阅读器进行优化的模式下运行。</target>
       </trans-unit>
       <trans-unit id="emptySelectionClipboard">
         <source xml:lang="en">Controls whether copying without a selection copies the current line.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether copying without a selection copies the current line.</target>
+        <target xml:lang="zh-CN" state="translated">控制不带选定内容的复制是否复制当前行。</target>
       </trans-unit>
       <trans-unit id="find.seedSearchStringFromSelection">
         <source xml:lang="en">Controls whether the search string in the Find Widget is seeded from the editor selection.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the search string in the Find Widget is seeded from the editor selection.</target>
+        <target xml:lang="zh-CN" state="translated">控制查找小组件中的搜索字符串是否为编辑器选择的种子。</target>
       </trans-unit>
       <trans-unit id="editor.find.autoFindInSelection.never">
         <source xml:lang="en">Never turn on Find in selection automatically (default)</source>
-        <target xml:lang="zh-CN" state="needs-translation">Never turn on Find in selection automatically (default)</target>
+        <target xml:lang="zh-CN" state="translated">从不自动启用 "在选择中查找" （默认值）</target>
       </trans-unit>
       <trans-unit id="editor.find.autoFindInSelection.always">
         <source xml:lang="en">Always turn on Find in selection automatically</source>
-        <target xml:lang="zh-CN" state="needs-translation">Always turn on Find in selection automatically</target>
+        <target xml:lang="zh-CN" state="translated">始终自动启用 "在选择中查找"</target>
       </trans-unit>
       <trans-unit id="editor.find.autoFindInSelection.multiline">
         <source xml:lang="en">Turn on Find in selection automatically when multiple lines of content are selected.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Turn on Find in selection automatically when multiple lines of content are selected.</target>
+        <target xml:lang="zh-CN" state="translated">选择多行内容时，将自动启用 "在选定内容中查找"。</target>
       </trans-unit>
       <trans-unit id="find.autoFindInSelection">
         <source xml:lang="en">Controls whether the find operation is carried out on selected text or the entire file in the editor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the find operation is carried out on selected text or the entire file in the editor.</target>
+        <target xml:lang="zh-CN" state="translated">控制是在编辑器中对所选文本还是整个文件执行查找操作。</target>
       </trans-unit>
       <trans-unit id="find.globalFindClipboard">
         <source xml:lang="en">Controls whether the Find Widget should read or modify the shared find clipboard on macOS.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the Find Widget should read or modify the shared find clipboard on macOS.</target>
+        <target xml:lang="zh-CN" state="translated">控制查找小组件是否应在 macOS 上读取或修改共享的 "查找剪贴板"。</target>
       </trans-unit>
       <trans-unit id="find.addExtraSpaceOnTop">
         <source xml:lang="en">Controls whether the Find Widget should add extra lines on top of the editor. When true, you can scroll beyond the first line when the Find Widget is visible.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the Find Widget should add extra lines on top of the editor. When true, you can scroll beyond the first line when the Find Widget is visible.</target>
+        <target xml:lang="zh-CN" state="translated">控制查找小组件是否应在编辑器顶部添加额外的行。如果为 true，则当查找小组件可见时，可以滚动到第一行之外。</target>
       </trans-unit>
       <trans-unit id="fontLigatures">
         <source xml:lang="en">Enables/Disables font ligatures.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enables/Disables font ligatures.</target>
+        <target xml:lang="zh-CN" state="translated">启用/禁用字体连字。</target>
       </trans-unit>
       <trans-unit id="fontFeatureSettings">
         <source xml:lang="en">Explicit font-feature-settings.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Explicit font-feature-settings.</target>
+        <target xml:lang="zh-CN" state="translated">显式字体-功能设置。</target>
       </trans-unit>
       <trans-unit id="fontLigaturesGeneral">
         <source xml:lang="en">Configures font ligatures.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Configures font ligatures.</target>
+        <target xml:lang="zh-CN" state="translated">配置字体连字。</target>
       </trans-unit>
       <trans-unit id="fontSize">
         <source xml:lang="en">Controls the font size in pixels.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the font size in pixels.</target>
+        <target xml:lang="zh-CN" state="translated">控制字号（以像素为单位）。</target>
       </trans-unit>
       <trans-unit id="editor.gotoLocation.multiple.peek">
         <source xml:lang="en">Show peek view of the results (default)</source>
-        <target xml:lang="zh-CN" state="needs-translation">Show peek view of the results (default)</target>
+        <target xml:lang="zh-CN" state="translated">显示结果的查看视图（默认）</target>
       </trans-unit>
       <trans-unit id="editor.gotoLocation.multiple.gotoAndPeek">
         <source xml:lang="en">Go to the primary result and show a peek view</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to the primary result and show a peek view</target>
+        <target xml:lang="zh-CN" state="translated">转到主结果并显示速览视图</target>
       </trans-unit>
       <trans-unit id="editor.gotoLocation.multiple.goto">
         <source xml:lang="en">Go to the primary result and enable peek-less navigation to others</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to the primary result and enable peek-less navigation to others</target>
+        <target xml:lang="zh-CN" state="translated">转到主要结果并为其他人启用扫视导航</target>
       </trans-unit>
       <trans-unit id="editor.gotoLocation.multiple.deprecated">
         <source xml:lang="en">This setting is deprecated, please use separate settings like 'editor.editor.gotoLocation.multipleDefinitions' or 'editor.editor.gotoLocation.multipleImplementations' instead.</source>
-        <target xml:lang="zh-CN" state="needs-translation">This setting is deprecated, please use separate settings like 'editor.editor.gotoLocation.multipleDefinitions' or 'editor.editor.gotoLocation.multipleImplementations' instead.</target>
+        <target xml:lang="zh-CN" state="translated">此设置已弃用，请改为使用单独的设置，如 "editor. gotoLocation. multipleDefinitions" 或 "editor. gotoLocation. multipleImplementations"。</target>
       </trans-unit>
       <trans-unit id="editor.editor.gotoLocation.multipleDefinitions">
         <source xml:lang="en">Controls the behavior the 'Go to Definition'-command when multiple target locations exist.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the behavior the 'Go to Definition'-command when multiple target locations exist.</target>
+        <target xml:lang="zh-CN" state="translated">控制在存在多个目标位置时 "转到 Definition'-命令" 的行为。</target>
       </trans-unit>
       <trans-unit id="editor.editor.gotoLocation.multipleTypeDefinitions">
         <source xml:lang="en">Controls the behavior the 'Go to Type Definition'-command when multiple target locations exist.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the behavior the 'Go to Type Definition'-command when multiple target locations exist.</target>
+        <target xml:lang="zh-CN" state="translated">控制当存在多个目标位置时 "转到类型 Definition'-命令" 的行为。</target>
       </trans-unit>
       <trans-unit id="editor.editor.gotoLocation.multipleDeclarations">
         <source xml:lang="en">Controls the behavior the 'Go to Declaration'-command when multiple target locations exist.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the behavior the 'Go to Declaration'-command when multiple target locations exist.</target>
+        <target xml:lang="zh-CN" state="translated">控制在存在多个目标位置时 "转到 Declaration'-命令" 的行为。</target>
       </trans-unit>
       <trans-unit id="editor.editor.gotoLocation.multipleImplemenattions">
         <source xml:lang="en">Controls the behavior the 'Go to Implementations'-command when multiple target locations exist.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the behavior the 'Go to Implementations'-command when multiple target locations exist.</target>
+        <target xml:lang="zh-CN" state="translated">控制在存在多个目标位置时 "转到 Implementations'-命令" 的行为。</target>
       </trans-unit>
       <trans-unit id="editor.editor.gotoLocation.multipleReferences">
         <source xml:lang="en">Controls the behavior the 'Go to References'-command when multiple target locations exist.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the behavior the 'Go to References'-command when multiple target locations exist.</target>
+        <target xml:lang="zh-CN" state="translated">控制在存在多个目标位置时 "转到 References'-命令" 的行为。</target>
       </trans-unit>
       <trans-unit id="alternativeDefinitionCommand">
         <source xml:lang="en">Alternative command id that is being executed when the result of 'Go to Definition' is the current location.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Alternative command id that is being executed when the result of 'Go to Definition' is the current location.</target>
+        <target xml:lang="zh-CN" state="translated">当 "转到定义" 的结果为当前位置时正在执行的替代命令 id。</target>
       </trans-unit>
       <trans-unit id="alternativeTypeDefinitionCommand">
         <source xml:lang="en">Alternative command id that is being executed when the result of 'Go to Type Definition' is the current location.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Alternative command id that is being executed when the result of 'Go to Type Definition' is the current location.</target>
+        <target xml:lang="zh-CN" state="translated">当 "转到类型定义" 的结果为当前位置时正在执行的替代命令 id。</target>
       </trans-unit>
       <trans-unit id="alternativeDeclarationCommand">
         <source xml:lang="en">Alternative command id that is being executed when the result of 'Go to Declaration' is the current location.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Alternative command id that is being executed when the result of 'Go to Declaration' is the current location.</target>
+        <target xml:lang="zh-CN" state="translated">当 "转到声明" 的结果是当前位置时正在执行的替代命令 id。</target>
       </trans-unit>
       <trans-unit id="alternativeImplementationCommand">
         <source xml:lang="en">Alternative command id that is being executed when the result of 'Go to Implementation' is the current location.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Alternative command id that is being executed when the result of 'Go to Implementation' is the current location.</target>
+        <target xml:lang="zh-CN" state="translated">当 "转到实现" 的结果为当前位置时正在执行的替代命令 id。</target>
       </trans-unit>
       <trans-unit id="alternativeReferenceCommand">
         <source xml:lang="en">Alternative command id that is being executed when the result of 'Go to Reference' is the current location.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Alternative command id that is being executed when the result of 'Go to Reference' is the current location.</target>
+        <target xml:lang="zh-CN" state="translated">当 "转到引用" 的结果为当前位置时正在执行的替代命令 id。</target>
       </trans-unit>
       <trans-unit id="hover.enabled">
         <source xml:lang="en">Controls whether the hover is shown.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the hover is shown.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否显示悬停。</target>
       </trans-unit>
       <trans-unit id="hover.delay">
         <source xml:lang="en">Controls the delay in milliseconds after which the hover is shown.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the delay in milliseconds after which the hover is shown.</target>
+        <target xml:lang="zh-CN" state="translated">控制悬停延迟的毫秒数（以毫秒为单位）。</target>
       </trans-unit>
       <trans-unit id="hover.sticky">
         <source xml:lang="en">Controls whether the hover should remain visible when mouse is moved over it.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the hover should remain visible when mouse is moved over it.</target>
+        <target xml:lang="zh-CN" state="translated">控制鼠标移动到悬停时是否保持可见。</target>
       </trans-unit>
       <trans-unit id="semanticHighlighting.enabled">
         <source xml:lang="en">Controls whether the semanticHighlighting is shown for the languages that support it.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the semanticHighlighting is shown for the languages that support it.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否显示支持该 semanticHighlighting 的语言。</target>
       </trans-unit>
       <trans-unit id="codeActions">
         <source xml:lang="en">Enables the code action lightbulb in the editor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enables the code action lightbulb in the editor.</target>
+        <target xml:lang="zh-CN" state="translated">在编辑器中启用代码操作灯。</target>
       </trans-unit>
       <trans-unit id="lineHeight">
         <source xml:lang="en">Controls the line height. Use 0 to compute the line height from the font size.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the line height. Use 0 to compute the line height from the font size.</target>
+        <target xml:lang="zh-CN" state="translated">控制行高。使用0从字体大小计算行高。</target>
       </trans-unit>
       <trans-unit id="minimap.enabled">
         <source xml:lang="en">Controls whether the minimap is shown.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the minimap is shown.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否显示 minimap。</target>
       </trans-unit>
       <trans-unit id="minimap.side">
         <source xml:lang="en">Controls the side where to render the minimap.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the side where to render the minimap.</target>
+        <target xml:lang="zh-CN" state="translated">控制 minimap 的呈现面。</target>
       </trans-unit>
       <trans-unit id="minimap.showSlider">
         <source xml:lang="en">Controls when the minimap slider is shown.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls when the minimap slider is shown.</target>
+        <target xml:lang="zh-CN" state="translated">控制显示 minimap 滑块的时间。</target>
       </trans-unit>
       <trans-unit id="minimap.scale">
         <source xml:lang="en">Scale of content drawn in the minimap.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Scale of content drawn in the minimap.</target>
+        <target xml:lang="zh-CN" state="translated">在 minimap 中绘制的内容的小数位数。</target>
       </trans-unit>
       <trans-unit id="minimap.renderCharacters">
         <source xml:lang="en">Render the actual characters on a line as opposed to color blocks.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Render the actual characters on a line as opposed to color blocks.</target>
+        <target xml:lang="zh-CN" state="translated">相对于颜色块呈现行上的实际字符。</target>
       </trans-unit>
       <trans-unit id="minimap.maxColumn">
         <source xml:lang="en">Limit the width of the minimap to render at most a certain number of columns.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Limit the width of the minimap to render at most a certain number of columns.</target>
+        <target xml:lang="zh-CN" state="translated">将 minimap 的宽度限制为最多呈现特定数目的列。</target>
       </trans-unit>
       <trans-unit id="parameterHints.enabled">
         <source xml:lang="en">Enables a pop-up that shows parameter documentation and type information as you type.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enables a pop-up that shows parameter documentation and type information as you type.</target>
+        <target xml:lang="zh-CN" state="translated">启用在您键入时显示参数文档和类型信息的弹出窗口。</target>
       </trans-unit>
       <trans-unit id="parameterHints.cycle">
         <source xml:lang="en">Controls whether the parameter hints menu cycles or closes when reaching the end of the list.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the parameter hints menu cycles or closes when reaching the end of the list.</target>
+        <target xml:lang="zh-CN" state="translated">控制参数提示菜单在到达列表结尾时是循环还是关闭。</target>
       </trans-unit>
       <trans-unit id="quickSuggestions.strings">
         <source xml:lang="en">Enable quick suggestions inside strings.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enable quick suggestions inside strings.</target>
+        <target xml:lang="zh-CN" state="translated">在字符串内启用快速建议。</target>
       </trans-unit>
       <trans-unit id="quickSuggestions.comments">
         <source xml:lang="en">Enable quick suggestions inside comments.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enable quick suggestions inside comments.</target>
+        <target xml:lang="zh-CN" state="translated">在注释内启用快速建议。</target>
       </trans-unit>
       <trans-unit id="quickSuggestions.other">
         <source xml:lang="en">Enable quick suggestions outside of strings and comments.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enable quick suggestions outside of strings and comments.</target>
+        <target xml:lang="zh-CN" state="translated">在字符串和注释之外启用快速建议。</target>
       </trans-unit>
       <trans-unit id="quickSuggestions">
         <source xml:lang="en">Controls whether suggestions should automatically show up while typing.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether suggestions should automatically show up while typing.</target>
+        <target xml:lang="zh-CN" state="translated">控制建议是否应在键入时自动显示。</target>
       </trans-unit>
       <trans-unit id="lineNumbers.off">
         <source xml:lang="en">Line numbers are not rendered.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line numbers are not rendered.</target>
+        <target xml:lang="zh-CN" state="translated">不呈现行号。</target>
       </trans-unit>
       <trans-unit id="lineNumbers.on">
         <source xml:lang="en">Line numbers are rendered as absolute number.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line numbers are rendered as absolute number.</target>
+        <target xml:lang="zh-CN" state="translated">行号呈现为绝对数。</target>
       </trans-unit>
       <trans-unit id="lineNumbers.relative">
         <source xml:lang="en">Line numbers are rendered as distance in lines to cursor position.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line numbers are rendered as distance in lines to cursor position.</target>
+        <target xml:lang="zh-CN" state="translated">行号呈现为行与光标位置之间的距离。</target>
       </trans-unit>
       <trans-unit id="lineNumbers.interval">
         <source xml:lang="en">Line numbers are rendered every 10 lines.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line numbers are rendered every 10 lines.</target>
+        <target xml:lang="zh-CN" state="translated">每10行呈现一行号。</target>
       </trans-unit>
       <trans-unit id="lineNumbers">
         <source xml:lang="en">Controls the display of line numbers.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the display of line numbers.</target>
+        <target xml:lang="zh-CN" state="translated">控制行号的显示。</target>
       </trans-unit>
       <trans-unit id="rulers">
         <source xml:lang="en">Render vertical rulers after a certain number of monospace characters. Use multiple values for multiple rulers. No rulers are drawn if array is empty.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Render vertical rulers after a certain number of monospace characters. Use multiple values for multiple rulers. No rulers are drawn if array is empty.</target>
+        <target xml:lang="zh-CN" state="translated">在一定数量的等宽字符后呈现垂直标尺。多个标尺使用多个值。如果数组为空，则不绘制标尺。</target>
       </trans-unit>
       <trans-unit id="suggest.insertMode.insert">
         <source xml:lang="en">Insert suggestion without overwriting text right of the cursor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Insert suggestion without overwriting text right of the cursor.</target>
+        <target xml:lang="zh-CN" state="translated">插入建议，但不覆盖光标右侧的文本。</target>
       </trans-unit>
       <trans-unit id="suggest.insertMode.replace">
         <source xml:lang="en">Insert suggestion and overwrite text right of the cursor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Insert suggestion and overwrite text right of the cursor.</target>
+        <target xml:lang="zh-CN" state="translated">插入建议并覆盖光标右侧的文本。</target>
       </trans-unit>
       <trans-unit id="suggest.insertMode">
         <source xml:lang="en">Controls whether words are overwritten when accepting completions. Note that this depends on extensions opting into this feature.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether words are overwritten when accepting completions. Note that this depends on extensions opting into this feature.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否在接受完成项时覆盖单词。请注意，这取决于扩展所加入到此功能中的扩展。</target>
       </trans-unit>
       <trans-unit id="suggest.insertHighlight">
         <source xml:lang="en">Controls whether unexpected text modifications while accepting completions should be highlighted, e.g `insertMode` is `replace` but the completion only supports `insert`.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether unexpected text modifications while accepting completions should be highlighted, e.g `insertMode` is `replace` but the completion only supports `insert`.</target>
+        <target xml:lang="zh-CN" state="translated">控制在接受完成时是否应突出显示意外的文本修改，例如，"insertMode" 为 "replace"，但完成仅支持 "insert"。</target>
       </trans-unit>
       <trans-unit id="suggest.filterGraceful">
         <source xml:lang="en">Controls whether filtering and sorting suggestions accounts for small typos.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether filtering and sorting suggestions accounts for small typos.</target>
+        <target xml:lang="zh-CN" state="translated">控制筛选和排序建议帐户是否有少量的错误输入。</target>
       </trans-unit>
       <trans-unit id="suggest.localityBonus">
         <source xml:lang="en">Controls whether sorting favours words that appear close to the cursor.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether sorting favours words that appear close to the cursor.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否对显示在光标附近的单词进行排序 favours。</target>
       </trans-unit>
       <trans-unit id="suggest.shareSuggestSelections">
         <source xml:lang="en">Controls whether remembered suggestion selections are shared between multiple workspaces and windows (needs `#editor.suggestSelection#`).</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether remembered suggestion selections are shared between multiple workspaces and windows (needs `#editor.suggestSelection#`).</target>
+        <target xml:lang="zh-CN" state="translated">控制是否记住建议选择在多个工作区和 windows 之间共享（需要 "#editor. suggestSelection #"）。</target>
       </trans-unit>
       <trans-unit id="suggest.snippetsPreventQuickSuggestions">
         <source xml:lang="en">Control whether an active snippet prevents quick suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Control whether an active snippet prevents quick suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">控制活动片段是否阻止快速建议。</target>
       </trans-unit>
       <trans-unit id="suggest.showIcons">
         <source xml:lang="en">Controls whether to show or hide icons in suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether to show or hide icons in suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否在建议中显示或隐藏图标。</target>
       </trans-unit>
       <trans-unit id="suggest.maxVisibleSuggestions">
         <source xml:lang="en">Controls how many suggestions IntelliSense will show before showing a scrollbar (maximum 15).</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls how many suggestions IntelliSense will show before showing a scrollbar (maximum 15).</target>
+        <target xml:lang="zh-CN" state="translated">控制在显示滚动条之前将显示的建议 IntelliSense 数（最大值为15）。</target>
       </trans-unit>
       <trans-unit id="deprecated">
         <source xml:lang="en">This setting is deprecated, please use separate settings like 'editor.suggest.showKeywords' or 'editor.suggest.showSnippets' instead.</source>
-        <target xml:lang="zh-CN" state="needs-translation">This setting is deprecated, please use separate settings like 'editor.suggest.showKeywords' or 'editor.suggest.showSnippets' instead.</target>
+        <target xml:lang="zh-CN" state="translated">此设置已弃用，请使用单独的设置（如 "编辑器）。建议 showKeywords" 或 "editor. showSnippets"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showMethods">
         <source xml:lang="en">When enabled IntelliSense shows `method`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `method`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "method'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showFunctions">
         <source xml:lang="en">When enabled IntelliSense shows `function`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `function`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "function'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showConstructors">
         <source xml:lang="en">When enabled IntelliSense shows `constructor`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `constructor`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "constructor'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showFields">
         <source xml:lang="en">When enabled IntelliSense shows `field`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `field`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "field'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showVariables">
         <source xml:lang="en">When enabled IntelliSense shows `variable`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `variable`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "variable'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showClasss">
         <source xml:lang="en">When enabled IntelliSense shows `class`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `class`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "class'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showStructs">
         <source xml:lang="en">When enabled IntelliSense shows `struct`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `struct`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "struct'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showInterfaces">
         <source xml:lang="en">When enabled IntelliSense shows `interface`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `interface`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "interface'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showModules">
         <source xml:lang="en">When enabled IntelliSense shows `module`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `module`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "module'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showPropertys">
         <source xml:lang="en">When enabled IntelliSense shows `property`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `property`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "property'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showEvents">
         <source xml:lang="en">When enabled IntelliSense shows `event`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `event`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "event'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showOperators">
         <source xml:lang="en">When enabled IntelliSense shows `operator`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `operator`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "operator'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showUnits">
         <source xml:lang="en">When enabled IntelliSense shows `unit`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `unit`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "unit'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showValues">
         <source xml:lang="en">When enabled IntelliSense shows `value`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `value`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "value'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showConstants">
         <source xml:lang="en">When enabled IntelliSense shows `constant`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `constant`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "constant'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showEnums">
         <source xml:lang="en">When enabled IntelliSense shows `enum`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `enum`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "enum'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showEnumMembers">
         <source xml:lang="en">When enabled IntelliSense shows `enumMember`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `enumMember`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "enumMember'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showKeywords">
         <source xml:lang="en">When enabled IntelliSense shows `keyword`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `keyword`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "keyword'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showTexts">
         <source xml:lang="en">When enabled IntelliSense shows `text`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `text`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "text'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showColors">
         <source xml:lang="en">When enabled IntelliSense shows `color`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `color`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "color'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showFiles">
         <source xml:lang="en">When enabled IntelliSense shows `file`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `file`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "file'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showReferences">
         <source xml:lang="en">When enabled IntelliSense shows `reference`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `reference`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "reference'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showCustomcolors">
         <source xml:lang="en">When enabled IntelliSense shows `customcolor`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `customcolor`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "customcolor'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showFolders">
         <source xml:lang="en">When enabled IntelliSense shows `folder`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `folder`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "folder'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showTypeParameters">
         <source xml:lang="en">When enabled IntelliSense shows `typeParameter`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `typeParameter`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "typeParameter'-建议"。</target>
       </trans-unit>
       <trans-unit id="editor.suggest.showSnippets">
         <source xml:lang="en">When enabled IntelliSense shows `snippet`-suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">When enabled IntelliSense shows `snippet`-suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">启用 IntelliSense 时显示 "snippet'-建议"。</target>
       </trans-unit>
       <trans-unit id="acceptSuggestionOnCommitCharacter">
         <source xml:lang="en">Controls whether suggestions should be accepted on commit characters. For example, in JavaScript, the semi-colon (`;`) can be a commit character that accepts a suggestion and types that character.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether suggestions should be accepted on commit characters. For example, in JavaScript, the semi-colon (`;`) can be a commit character that accepts a suggestion and types that character.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否应在提交字符上接受建议。例如，在 JavaScript 中，分号（";"）可以是接受建议并键入该字符的提交字符。</target>
       </trans-unit>
       <trans-unit id="acceptSuggestionOnEnterSmart">
         <source xml:lang="en">Only accept a suggestion with `Enter` when it makes a textual change.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Only accept a suggestion with `Enter` when it makes a textual change.</target>
+        <target xml:lang="zh-CN" state="translated">仅在进行文本更改时接受带有 "Enter" 的建议。</target>
       </trans-unit>
       <trans-unit id="acceptSuggestionOnEnter">
         <source xml:lang="en">Controls whether suggestions should be accepted on `Enter`, in addition to `Tab`. Helps to avoid ambiguity between inserting new lines or accepting suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether suggestions should be accepted on `Enter`, in addition to `Tab`. Helps to avoid ambiguity between inserting new lines or accepting suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">控制除了 "Tab" 之外，是否应在 "Enter" 上接受建议。有助于避免插入新行或接受建议之间的多义性。</target>
       </trans-unit>
       <trans-unit id="accessibilityPageSize">
         <source xml:lang="en">Controls the number of lines in the editor that can be read out by a screen reader. Warning: this has a performance implication for numbers larger than the default.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the number of lines in the editor that can be read out by a screen reader. Warning: this has a performance implication for numbers larger than the default.</target>
+        <target xml:lang="zh-CN" state="translated">控制可由屏幕阅读器读取的编辑器中的行数。警告：对于大于默认值的数字，这具有性能含义。</target>
       </trans-unit>
       <trans-unit id="editorViewAccessibleLabel_Duplicated2">
         <source xml:lang="en">Editor content</source>
-        <target xml:lang="zh-CN" state="needs-translation">Editor content</target>
+        <target xml:lang="zh-CN" state="translated">编辑器内容</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingBrackets.languageDefined">
         <source xml:lang="en">Use language configurations to determine when to autoclose brackets.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Use language configurations to determine when to autoclose brackets.</target>
+        <target xml:lang="zh-CN" state="translated">使用语言配置来确定何时 autoclose 方括号。</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingBrackets.beforeWhitespace">
         <source xml:lang="en">Autoclose brackets only when the cursor is to the left of whitespace.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Autoclose brackets only when the cursor is to the left of whitespace.</target>
+        <target xml:lang="zh-CN" state="translated">仅当光标位于空白的左侧时，才 Autoclose 括号。</target>
       </trans-unit>
       <trans-unit id="autoClosingBrackets">
         <source xml:lang="en">Controls whether the editor should automatically close brackets after the user adds an opening bracket.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should automatically close brackets after the user adds an opening bracket.</target>
+        <target xml:lang="zh-CN" state="translated">控制在用户添加左括号后，编辑器是否应自动关闭方括号。</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingOvertype.auto">
         <source xml:lang="en">Type over closing quotes or brackets only if they were automatically inserted.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Type over closing quotes or brackets only if they were automatically inserted.</target>
+        <target xml:lang="zh-CN" state="translated">仅在自动插入的引号或括号后键入。</target>
       </trans-unit>
       <trans-unit id="autoClosingOvertype">
         <source xml:lang="en">Controls whether the editor should type over closing quotes or brackets.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should type over closing quotes or brackets.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应键入结束引号或方括号。</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingQuotes.languageDefined">
         <source xml:lang="en">Use language configurations to determine when to autoclose quotes.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Use language configurations to determine when to autoclose quotes.</target>
+        <target xml:lang="zh-CN" state="translated">使用语言配置来确定 autoclose 报价的时间。</target>
       </trans-unit>
       <trans-unit id="editor.autoClosingQuotes.beforeWhitespace">
         <source xml:lang="en">Autoclose quotes only when the cursor is to the left of whitespace.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Autoclose quotes only when the cursor is to the left of whitespace.</target>
+        <target xml:lang="zh-CN" state="translated">仅当光标位于空白的左侧时，才 Autoclose 引号。</target>
       </trans-unit>
       <trans-unit id="autoClosingQuotes">
         <source xml:lang="en">Controls whether the editor should automatically close quotes after the user adds an opening quote.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should automatically close quotes after the user adds an opening quote.</target>
+        <target xml:lang="zh-CN" state="translated">控制在用户添加左引号后，编辑器是否应自动关闭引号。</target>
       </trans-unit>
       <trans-unit id="editor.autoIndent.none">
         <source xml:lang="en">The editor will not insert indentation automatically.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will not insert indentation automatically.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器不会自动插入缩进。</target>
       </trans-unit>
       <trans-unit id="editor.autoIndent.keep">
         <source xml:lang="en">The editor will keep the current line's indentation.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will keep the current line's indentation.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器将保留当前行的缩进。</target>
       </trans-unit>
       <trans-unit id="editor.autoIndent.brackets">
         <source xml:lang="en">The editor will keep the current line's indentation and honor language defined brackets.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will keep the current line's indentation and honor language defined brackets.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器将保留当前行的缩进并接受语言定义的括号。</target>
       </trans-unit>
       <trans-unit id="editor.autoIndent.advanced">
         <source xml:lang="en">The editor will keep the current line's indentation, honor language defined brackets and invoke special onEnterRules defined by languages.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will keep the current line's indentation, honor language defined brackets and invoke special onEnterRules defined by languages.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器将保留当前行的缩进量，遵循语言定义的括号并调用语言定义的特殊 onEnterRules。</target>
       </trans-unit>
       <trans-unit id="editor.autoIndent.full">
         <source xml:lang="en">The editor will keep the current line's indentation, honor language defined brackets, invoke special onEnterRules defined by languages, and honor indentationRules defined by languages.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor will keep the current line's indentation, honor language defined brackets, invoke special onEnterRules defined by languages, and honor indentationRules defined by languages.</target>
+        <target xml:lang="zh-CN" state="translated">编辑器将保留当前行的缩进量，遵循语言定义的方括号，调用由语言定义的特殊 onEnterRules，并遵循语言定义 indentationRules。</target>
       </trans-unit>
       <trans-unit id="autoIndent">
         <source xml:lang="en">Controls whether the editor should automatically adjust the indentation when users type, paste, move or indent lines.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should automatically adjust the indentation when users type, paste, move or indent lines.</target>
+        <target xml:lang="zh-CN" state="translated">控制在用户键入、粘贴、移动或缩进行时编辑器是否应自动调整缩进。</target>
       </trans-unit>
       <trans-unit id="editor.autoSurround.languageDefined">
         <source xml:lang="en">Use language configurations to determine when to automatically surround selections.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Use language configurations to determine when to automatically surround selections.</target>
+        <target xml:lang="zh-CN" state="translated">使用语言配置确定自动环绕选择的时间。</target>
       </trans-unit>
       <trans-unit id="editor.autoSurround.quotes">
         <source xml:lang="en">Surround with quotes but not brackets.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Surround with quotes but not brackets.</target>
+        <target xml:lang="zh-CN" state="translated">用引号（但不是方括号）括起来。</target>
       </trans-unit>
       <trans-unit id="editor.autoSurround.brackets">
         <source xml:lang="en">Surround with brackets but not quotes.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Surround with brackets but not quotes.</target>
+        <target xml:lang="zh-CN" state="translated">用方括号而不是引号括起来。</target>
       </trans-unit>
       <trans-unit id="autoSurround">
         <source xml:lang="en">Controls whether the editor should automatically surround selections.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should automatically surround selections.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应自动将选择括起来。</target>
       </trans-unit>
       <trans-unit id="codeLens">
         <source xml:lang="en">Controls whether the editor shows CodeLens.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor shows CodeLens.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否显示 CodeLens。</target>
       </trans-unit>
       <trans-unit id="colorDecorators">
         <source xml:lang="en">Controls whether the editor should render the inline color decorators and color picker.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should render the inline color decorators and color picker.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应呈现内联颜色修饰器和颜色选取器。</target>
       </trans-unit>
       <trans-unit id="copyWithSyntaxHighlighting">
         <source xml:lang="en">Controls whether syntax highlighting should be copied into the clipboard.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether syntax highlighting should be copied into the clipboard.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否应将突出显示语法复制到剪贴板。</target>
       </trans-unit>
       <trans-unit id="cursorBlinking">
         <source xml:lang="en">Control the cursor animation style.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Control the cursor animation style.</target>
+        <target xml:lang="zh-CN" state="translated">控制光标的动画样式。</target>
       </trans-unit>
       <trans-unit id="cursorSmoothCaretAnimation">
         <source xml:lang="en">Controls whether the smooth caret animation should be enabled.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the smooth caret animation should be enabled.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否应启用平滑插入符号动画。</target>
       </trans-unit>
       <trans-unit id="cursorStyle">
         <source xml:lang="en">Controls the cursor style.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the cursor style.</target>
+        <target xml:lang="zh-CN" state="translated">控制游标样式。</target>
       </trans-unit>
       <trans-unit id="cursorSurroundingLines">
         <source xml:lang="en">Controls the minimal number of visible leading and trailing lines surrounding the cursor. Known as 'scrollOff' or `scrollOffset` in some other editors.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the minimal number of visible leading and trailing lines surrounding the cursor. Known as 'scrollOff' or `scrollOffset` in some other editors.</target>
+        <target xml:lang="zh-CN" state="translated">控制光标周围可见的前导和尾随行的最小数目。在其他一些编辑器中称为 "scrollOff" 或 "scrollOffset"。</target>
       </trans-unit>
       <trans-unit id="cursorSurroundingLinesStyle.default">
         <source xml:lang="en">`cursorSurroundingLines` is enforced only when triggered via the keyboard or API.</source>
-        <target xml:lang="zh-CN" state="needs-translation">`cursorSurroundingLines` is enforced only when triggered via the keyboard or API.</target>
+        <target xml:lang="zh-CN" state="translated">仅当通过键盘或 API 触发时才强制使用 "cursorSurroundingLines"。</target>
       </trans-unit>
       <trans-unit id="cursorSurroundingLinesStyle.all">
         <source xml:lang="en">`cursorSurroundingLines` is enforced always.</source>
-        <target xml:lang="zh-CN" state="needs-translation">`cursorSurroundingLines` is enforced always.</target>
+        <target xml:lang="zh-CN" state="translated">"cursorSurroundingLines" 始终被强制执行。</target>
       </trans-unit>
       <trans-unit id="cursorSurroundingLinesStyle">
         <source xml:lang="en">Controls when `cursorSurroundingLines` should be enforced.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls when `cursorSurroundingLines` should be enforced.</target>
+        <target xml:lang="zh-CN" state="translated">控制何时应强制执行 "cursorSurroundingLines"。</target>
       </trans-unit>
       <trans-unit id="cursorWidth">
         <source xml:lang="en">Controls the width of the cursor when `#editor.cursorStyle#` is set to `line`.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the width of the cursor when `#editor.cursorStyle#` is set to `line`.</target>
+        <target xml:lang="zh-CN" state="translated">控制当 "#editor. cursorStyle #" 设置为 "line" 时光标的宽度。</target>
       </trans-unit>
       <trans-unit id="dragAndDrop">
         <source xml:lang="en">Controls whether the editor should allow moving selections via drag and drop.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should allow moving selections via drag and drop.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应允许通过拖放来移动所选内容。</target>
       </trans-unit>
       <trans-unit id="fastScrollSensitivity">
         <source xml:lang="en">Scrolling speed multiplier when pressing `Alt`.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Scrolling speed multiplier when pressing `Alt`.</target>
+        <target xml:lang="zh-CN" state="translated">按 "Alt" 时的滚动速度乘数。</target>
       </trans-unit>
       <trans-unit id="folding">
         <source xml:lang="en">Controls whether the editor has code folding enabled.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor has code folding enabled.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否启用代码折叠。</target>
       </trans-unit>
       <trans-unit id="foldingStrategy">
         <source xml:lang="en">Controls the strategy for computing folding ranges. `auto` uses a language specific folding strategy, if available. `indentation` uses the indentation based folding strategy.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the strategy for computing folding ranges. `auto` uses a language specific folding strategy, if available. `indentation` uses the indentation based folding strategy.</target>
+        <target xml:lang="zh-CN" state="translated">控制计算折叠范围的策略。"auto" 使用语言特定折叠策略（如果有）。"缩进" 使用基于缩进的折叠策略。</target>
       </trans-unit>
       <trans-unit id="foldingHighlight">
         <source xml:lang="en">Controls whether the editor should highlight folded ranges.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should highlight folded ranges.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应突出显示折叠的范围。</target>
       </trans-unit>
       <trans-unit id="fontFamily">
         <source xml:lang="en">Controls the font family.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the font family.</target>
+        <target xml:lang="zh-CN" state="translated">控制字体系列。</target>
       </trans-unit>
       <trans-unit id="fontWeight">
         <source xml:lang="en">Controls the font weight.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the font weight.</target>
+        <target xml:lang="zh-CN" state="translated">控制字体粗细。</target>
       </trans-unit>
       <trans-unit id="formatOnPaste">
         <source xml:lang="en">Controls whether the editor should automatically format the pasted content. A formatter must be available and the formatter should be able to format a range in a document.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should automatically format the pasted content. A formatter must be available and the formatter should be able to format a range in a document.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应自动设置粘贴内容的格式。格式化程序必须可用，并且格式化程序应能够格式化文档中的范围。</target>
       </trans-unit>
       <trans-unit id="formatOnType">
         <source xml:lang="en">Controls whether the editor should automatically format the line after typing.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should automatically format the line after typing.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应在键入后自动设置行的格式。</target>
       </trans-unit>
       <trans-unit id="glyphMargin">
         <source xml:lang="en">Controls whether the editor should render the vertical glyph margin. Glyph margin is mostly used for debugging.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should render the vertical glyph margin. Glyph margin is mostly used for debugging.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应呈现垂直标志符号边距。标志符号边距大多用于调试。</target>
       </trans-unit>
       <trans-unit id="hideCursorInOverviewRuler">
         <source xml:lang="en">Controls whether the cursor should be hidden in the overview ruler.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the cursor should be hidden in the overview ruler.</target>
+        <target xml:lang="zh-CN" state="translated">控制光标是否应在概述标尺中隐藏。</target>
       </trans-unit>
       <trans-unit id="highlightActiveIndentGuide">
         <source xml:lang="en">Controls whether the editor should highlight the active indent guide.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should highlight the active indent guide.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应突出显示活动缩进参考线。</target>
       </trans-unit>
       <trans-unit id="letterSpacing">
         <source xml:lang="en">Controls the letter spacing in pixels.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the letter spacing in pixels.</target>
+        <target xml:lang="zh-CN" state="translated">控制字母间距（以像素为单位）。</target>
       </trans-unit>
       <trans-unit id="links">
         <source xml:lang="en">Controls whether the editor should detect links and make them clickable.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should detect links and make them clickable.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应检测链接并使其可单击。</target>
       </trans-unit>
       <trans-unit id="matchBrackets">
         <source xml:lang="en">Highlight matching brackets.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Highlight matching brackets.</target>
+        <target xml:lang="zh-CN" state="translated">突出显示匹配的括号。</target>
       </trans-unit>
       <trans-unit id="mouseWheelScrollSensitivity">
         <source xml:lang="en">A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events.</source>
-        <target xml:lang="zh-CN" state="needs-translation">A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events.</target>
+        <target xml:lang="zh-CN" state="translated">用于鼠标滚轮滚动事件的 "deltaX" 和 "deltaY" 的乘数。</target>
       </trans-unit>
       <trans-unit id="mouseWheelZoom">
         <source xml:lang="en">Zoom the font of the editor when using mouse wheel and holding `Ctrl`.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Zoom the font of the editor when using mouse wheel and holding `Ctrl`.</target>
+        <target xml:lang="zh-CN" state="translated">使用鼠标滚轮并按住 "Ctrl" 时缩放编辑器的字体。</target>
       </trans-unit>
       <trans-unit id="multiCursorMergeOverlapping">
         <source xml:lang="en">Merge multiple cursors when they are overlapping.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Merge multiple cursors when they are overlapping.</target>
+        <target xml:lang="zh-CN" state="translated">重叠时合并多个游标。</target>
       </trans-unit>
       <trans-unit id="multiCursorModifier.ctrlCmd">
         <source xml:lang="en">Maps to `Control` on Windows and Linux and to `Command` on macOS.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Maps to `Control` on Windows and Linux and to `Command` on macOS.</target>
+        <target xml:lang="zh-CN" state="translated">映射到 Windows 和 Linux 上的 "Control" 以及 macOS 上的 "Command"。</target>
       </trans-unit>
       <trans-unit id="multiCursorModifier.alt">
         <source xml:lang="en">Maps to `Alt` on Windows and Linux and to `Option` on macOS.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Maps to `Alt` on Windows and Linux and to `Option` on macOS.</target>
+        <target xml:lang="zh-CN" state="translated">映射到 Windows 和 Linux 上的 "Alt" 和 macOS 上的 "Option"。</target>
       </trans-unit>
       <trans-unit id="multiCursorModifier">
         <source xml:lang="en">The modifier to be used to add multiple cursors with the mouse. The Go To Definition and Open Link mouse gestures will adapt such that they do not conflict with the multicursor modifier. [Read more](https://code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier).</source>
         <note>- `ctrlCmd` refers to a value the setting can take and should not be localized.
 - `Control` and `Command` refer to the modifier keys Ctrl or Cmd on the keyboard and can be localized.</note>
-        <target xml:lang="zh-CN" state="needs-translation">The modifier to be used to add multiple cursors with the mouse. The Go To Definition and Open Link mouse gestures will adapt such that they do not conflict with the multicursor modifier. [Read more](https://code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier).</target>
+        <target xml:lang="zh-CN" state="translated">用于使用鼠标添加多个光标的修饰符。"转到定义" 和 "打开链接鼠标" 笔势将调整，以便它们不会与 multicursor 修饰符冲突。[阅读更多]（https://code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier）。</target>
       </trans-unit>
       <trans-unit id="multiCursorPaste.spread">
         <source xml:lang="en">Each cursor pastes a single line of the text.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Each cursor pastes a single line of the text.</target>
+        <target xml:lang="zh-CN" state="translated">每个游标都粘贴文本的一行。</target>
       </trans-unit>
       <trans-unit id="multiCursorPaste.full">
         <source xml:lang="en">Each cursor pastes the full text.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Each cursor pastes the full text.</target>
+        <target xml:lang="zh-CN" state="translated">每个光标都将粘贴整个文本。</target>
       </trans-unit>
       <trans-unit id="multiCursorPaste">
         <source xml:lang="en">Controls pasting when the line count of the pasted text matches the cursor count.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls pasting when the line count of the pasted text matches the cursor count.</target>
+        <target xml:lang="zh-CN" state="translated">当所粘贴文本的行计数与游标计数匹配时，粘贴控件。</target>
       </trans-unit>
       <trans-unit id="occurrencesHighlight">
         <source xml:lang="en">Controls whether the editor should highlight semantic symbol occurrences.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should highlight semantic symbol occurrences.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应突出显示语义符号匹配项。</target>
       </trans-unit>
       <trans-unit id="overviewRulerBorder">
         <source xml:lang="en">Controls whether a border should be drawn around the overview ruler.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether a border should be drawn around the overview ruler.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否在概述标尺周围绘制边框。</target>
       </trans-unit>
       <trans-unit id="peekWidgetFocusInlineEditor">
         <source xml:lang="en">Controls whether to focus the inline editor in the peek widget by default.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether to focus the inline editor in the peek widget by default.</target>
+        <target xml:lang="zh-CN" state="translated">控制在默认情况下是否将内联编辑器集中在扫视构件中。</target>
       </trans-unit>
       <trans-unit id="quickSuggestionsDelay">
         <source xml:lang="en">Controls the delay in milliseconds after which quick suggestions will show up.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the delay in milliseconds after which quick suggestions will show up.</target>
+        <target xml:lang="zh-CN" state="translated">控制快速建议显示的延迟时间（毫秒）。</target>
       </trans-unit>
       <trans-unit id="renderControlCharacters">
         <source xml:lang="en">Controls whether the editor should render control characters.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should render control characters.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应呈现控制字符。</target>
       </trans-unit>
       <trans-unit id="renderIndentGuides">
         <source xml:lang="en">Controls whether the editor should render indent guides.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should render indent guides.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应呈现缩进参考线。</target>
       </trans-unit>
       <trans-unit id="renderFinalNewline">
         <source xml:lang="en">Render last line number when the file ends with a newline.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Render last line number when the file ends with a newline.</target>
+        <target xml:lang="zh-CN" state="translated">当文件以换行符结尾时，呈现末行号。</target>
       </trans-unit>
       <trans-unit id="renderLineHighlight.all">
         <source xml:lang="en">Highlights both the gutter and the current line.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Highlights both the gutter and the current line.</target>
+        <target xml:lang="zh-CN" state="translated">同时突出显示装订线和当前行。</target>
       </trans-unit>
       <trans-unit id="renderLineHighlight">
         <source xml:lang="en">Controls how the editor should render the current line highlight.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls how the editor should render the current line highlight.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器应如何呈现当前行突出显示。</target>
       </trans-unit>
       <trans-unit id="renderWhitespace.boundary">
         <source xml:lang="en">Render whitespace characters except for single spaces between words.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Render whitespace characters except for single spaces between words.</target>
+        <target xml:lang="zh-CN" state="translated">呈现空白字符（单词之间的单个空格除外）。</target>
       </trans-unit>
       <trans-unit id="renderWhitespace.selection">
         <source xml:lang="en">Render whitespace characters only on selected text.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Render whitespace characters only on selected text.</target>
+        <target xml:lang="zh-CN" state="translated">仅在所选文本上呈现空白字符。</target>
       </trans-unit>
       <trans-unit id="renderWhitespace">
         <source xml:lang="en">Controls how the editor should render whitespace characters.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls how the editor should render whitespace characters.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器应如何呈现空白字符。</target>
       </trans-unit>
       <trans-unit id="roundedSelection">
         <source xml:lang="en">Controls whether selections should have rounded corners.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether selections should have rounded corners.</target>
+        <target xml:lang="zh-CN" state="translated">控制选择是否应具有圆角。</target>
       </trans-unit>
       <trans-unit id="scrollBeyondLastColumn">
         <source xml:lang="en">Controls the number of extra characters beyond which the editor will scroll horizontally.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the number of extra characters beyond which the editor will scroll horizontally.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器将在水平方向上滚动的额外字符数。</target>
       </trans-unit>
       <trans-unit id="scrollBeyondLastLine">
         <source xml:lang="en">Controls whether the editor will scroll beyond the last line.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor will scroll beyond the last line.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否将滚动到最后一行之外。</target>
       </trans-unit>
       <trans-unit id="selectionClipboard">
         <source xml:lang="en">Controls whether the Linux primary clipboard should be supported.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the Linux primary clipboard should be supported.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否支持 Linux 主剪贴板。</target>
       </trans-unit>
       <trans-unit id="selectionHighlight">
         <source xml:lang="en">Controls whether the editor should highlight matches similar to the selection.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor should highlight matches similar to the selection.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否应突出显示与所选内容相似的匹配项。</target>
       </trans-unit>
       <trans-unit id="showFoldingControls">
         <source xml:lang="en">Controls whether the fold controls on the gutter are automatically hidden.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the fold controls on the gutter are automatically hidden.</target>
+        <target xml:lang="zh-CN" state="translated">控制装订线上的折叠控件是否自动隐藏。</target>
       </trans-unit>
       <trans-unit id="showUnused">
         <source xml:lang="en">Controls fading out of unused code.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls fading out of unused code.</target>
+        <target xml:lang="zh-CN" state="translated">控制不使用的代码的渐隐。</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.top">
         <source xml:lang="en">Show snippet suggestions on top of other suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Show snippet suggestions on top of other suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">在其他建议的最前面显示代码段建议。</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.bottom">
         <source xml:lang="en">Show snippet suggestions below other suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Show snippet suggestions below other suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">在其他建议下方显示代码段建议。</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.inline">
         <source xml:lang="en">Show snippets suggestions with other suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Show snippets suggestions with other suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">使用其他建议显示片段建议。</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions.none">
         <source xml:lang="en">Do not show snippet suggestions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Do not show snippet suggestions.</target>
+        <target xml:lang="zh-CN" state="translated">不显示代码片段建议。</target>
       </trans-unit>
       <trans-unit id="snippetSuggestions">
         <source xml:lang="en">Controls whether snippets are shown with other suggestions and how they are sorted.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether snippets are shown with other suggestions and how they are sorted.</target>
+        <target xml:lang="zh-CN" state="translated">控制是否显示有关其他建议以及如何对其排序的代码段。</target>
       </trans-unit>
       <trans-unit id="smoothScrolling">
         <source xml:lang="en">Controls whether the editor will scroll using an animation.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether the editor will scroll using an animation.</target>
+        <target xml:lang="zh-CN" state="translated">控制编辑器是否将使用动画滚动。</target>
       </trans-unit>
       <trans-unit id="suggestFontSize">
         <source xml:lang="en">Font size for the suggest widget. When set to `0`, the value of `#editor.fontSize#` is used.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Font size for the suggest widget. When set to `0`, the value of `#editor.fontSize#` is used.</target>
+        <target xml:lang="zh-CN" state="translated">建议小组件的字号。设置为 "0" 时，将使用 "#editor fontSize #" 的值。</target>
       </trans-unit>
       <trans-unit id="suggestLineHeight">
         <source xml:lang="en">Line height for the suggest widget. When set to `0`, the value of `#editor.lineHeight#` is used.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Line height for the suggest widget. When set to `0`, the value of `#editor.lineHeight#` is used.</target>
+        <target xml:lang="zh-CN" state="translated">建议小组件的行高。设置为 "0" 时，将使用 "#editor lineHeight #" 的值。</target>
       </trans-unit>
       <trans-unit id="suggestOnTriggerCharacters">
         <source xml:lang="en">Controls whether suggestions should automatically show up when typing trigger characters.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls whether suggestions should automatically show up when typing trigger characters.</target>
+        <target xml:lang="zh-CN" state="translated">控制在键入触发器字符时是否应自动显示建议。</target>
       </trans-unit>
       <trans-unit id="suggestSelection.first">
         <source xml:lang="en">Always select the first suggestion.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Always select the first suggestion.</target>
+        <target xml:lang="zh-CN" state="translated">始终选择第一个建议。</target>
       </trans-unit>
       <trans-unit id="suggestSelection.recentlyUsed">
         <source xml:lang="en">Select recent suggestions unless further typing selects one, e.g. `console.| -&gt; console.log` because `log` has been completed recently.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Select recent suggestions unless further typing selects one, e.g. `console.| -&gt; console.log` because `log` has been completed recently.</target>
+        <target xml:lang="zh-CN" state="translated">选择最近的建议，除非进一步键入，否则选择一个（例如，"控制台"）。 |-&gt; 因为 "log" 最近完成，所以 console 日志 "。</target>
       </trans-unit>
       <trans-unit id="suggestSelection.recentlyUsedByPrefix">
         <source xml:lang="en">Select suggestions based on previous prefixes that have completed those suggestions, e.g. `co -&gt; console` and `con -&gt; const`.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Select suggestions based on previous prefixes that have completed those suggestions, e.g. `co -&gt; console` and `con -&gt; const`.</target>
+        <target xml:lang="zh-CN" state="translated">根据已完成这些建议的以前的前缀选择建议，例如 "联&gt; 控制台 "和" con&gt; const "。</target>
       </trans-unit>
       <trans-unit id="suggestSelection">
         <source xml:lang="en">Controls how suggestions are pre-selected when showing the suggest list.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls how suggestions are pre-selected when showing the suggest list.</target>
+        <target xml:lang="zh-CN" state="translated">控制在显示建议列表时如何预先选择建议。</target>
       </trans-unit>
       <trans-unit id="tabCompletion.on">
         <source xml:lang="en">Tab complete will insert the best matching suggestion when pressing tab.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Tab complete will insert the best matching suggestion when pressing tab.</target>
+        <target xml:lang="zh-CN" state="translated">"完成" 选项卡将在按 tab 时插入最佳匹配建议。</target>
       </trans-unit>
       <trans-unit id="tabCompletion.off">
         <source xml:lang="en">Disable tab completions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Disable tab completions.</target>
+        <target xml:lang="zh-CN" state="translated">禁用选项卡完成。</target>
       </trans-unit>
       <trans-unit id="tabCompletion.onlySnippets">
         <source xml:lang="en">Tab complete snippets when their prefix match. Works best when 'quickSuggestions' aren't enabled.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Tab complete snippets when their prefix match. Works best when 'quickSuggestions' aren't enabled.</target>
+        <target xml:lang="zh-CN" state="translated">其前缀匹配时的完整代码段。在未启用 "quickSuggestions" 时，使用效果最好。</target>
       </trans-unit>
       <trans-unit id="tabCompletion">
         <source xml:lang="en">Enables tab completions.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Enables tab completions.</target>
+        <target xml:lang="zh-CN" state="translated">启用制表符完成。</target>
       </trans-unit>
       <trans-unit id="useTabStops">
         <source xml:lang="en">Inserting and deleting whitespace follows tab stops.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Inserting and deleting whitespace follows tab stops.</target>
+        <target xml:lang="zh-CN" state="translated">在制表位后面插入和删除空白。</target>
       </trans-unit>
       <trans-unit id="wordSeparators">
         <source xml:lang="en">Characters that will be used as word separators when doing word related navigations or operations.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Characters that will be used as word separators when doing word related navigations or operations.</target>
+        <target xml:lang="zh-CN" state="translated">执行 word 相关导航或操作时将用作单词分隔符的字符。</target>
       </trans-unit>
       <trans-unit id="wordWrap.off">
         <source xml:lang="en">Lines will never wrap.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Lines will never wrap.</target>
+        <target xml:lang="zh-CN" state="translated">线条永远不会换行。</target>
       </trans-unit>
       <trans-unit id="wordWrap.on">
         <source xml:lang="en">Lines will wrap at the viewport width.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Lines will wrap at the viewport width.</target>
+        <target xml:lang="zh-CN" state="translated">线条将在视区宽度处换行。</target>
       </trans-unit>
       <trans-unit id="wordWrap.wordWrapColumn">
         <source xml:lang="en">Lines will wrap at `#editor.wordWrapColumn#`.</source>
         <note>- `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
-        <target xml:lang="zh-CN" state="needs-translation">Lines will wrap at `#editor.wordWrapColumn#`.</target>
+        <target xml:lang="zh-CN" state="translated">行将在 "#editor Editor.wordwrapcolumn #" 处换行。</target>
       </trans-unit>
       <trans-unit id="wordWrap.bounded">
         <source xml:lang="en">Lines will wrap at the minimum of viewport and `#editor.wordWrapColumn#`.</source>
         <note>- viewport means the edge of the visible window size.
 - `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
-        <target xml:lang="zh-CN" state="needs-translation">Lines will wrap at the minimum of viewport and `#editor.wordWrapColumn#`.</target>
+        <target xml:lang="zh-CN" state="translated">线条将以最小视区和 "#editor Editor.wordwrapcolumn #" 换行。</target>
       </trans-unit>
       <trans-unit id="wordWrap">
         <source xml:lang="en">Controls how lines should wrap.</source>
         <note>- 'off', 'on', 'wordWrapColumn' and 'bounded' refer to values the setting can take and should not be localized.
 - `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
-        <target xml:lang="zh-CN" state="needs-translation">Controls how lines should wrap.</target>
+        <target xml:lang="zh-CN" state="translated">控制线条应如何换行。</target>
       </trans-unit>
       <trans-unit id="wordWrapColumn">
         <source xml:lang="en">Controls the wrapping column of the editor when `#editor.wordWrap#` is `wordWrapColumn` or `bounded`.</source>
         <note>- `editor.wordWrap` refers to a different setting and should not be localized.
 - 'wordWrapColumn' and 'bounded' refer to values the different setting can take and should not be localized.</note>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the wrapping column of the editor when `#editor.wordWrap#` is `wordWrapColumn` or `bounded`.</target>
+        <target xml:lang="zh-CN" state="translated">当 "#editor. Editor.wordwrap #" 为 "Editor.wordwrapcolumn" 或 "受限" 时，控制编辑器的包装列。</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.none">
         <source xml:lang="en">No indentation. Wrapped lines begin at column 1.</source>
-        <target xml:lang="zh-CN" state="needs-translation">No indentation. Wrapped lines begin at column 1.</target>
+        <target xml:lang="zh-CN" state="translated">无缩进。换行行从第1列开始。</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.same">
         <source xml:lang="en">Wrapped lines get the same indentation as the parent.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Wrapped lines get the same indentation as the parent.</target>
+        <target xml:lang="zh-CN" state="translated">已换行获取与父项相同的缩进。</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.indent">
         <source xml:lang="en">Wrapped lines get +1 indentation toward the parent.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Wrapped lines get +1 indentation toward the parent.</target>
+        <target xml:lang="zh-CN" state="translated">已换行获取 + 1 向父级的缩进。</target>
       </trans-unit>
       <trans-unit id="wrappingIndent.deepIndent">
         <source xml:lang="en">Wrapped lines get +2 indentation toward the parent.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Wrapped lines get +2 indentation toward the parent.</target>
+        <target xml:lang="zh-CN" state="translated">已换行获取 + 2 向父级的缩进。</target>
       </trans-unit>
       <trans-unit id="wrappingIndent">
         <source xml:lang="en">Controls the indentation of wrapped lines.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the indentation of wrapped lines.</target>
+        <target xml:lang="zh-CN" state="translated">控制已换行的行的缩进。</target>
       </trans-unit>
       <trans-unit id="wrappingAlgorithm.monospace">
         <source xml:lang="en">Assumes that all characters are of the same width. This is a fast algorithm.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Assumes that all characters are of the same width. This is a fast algorithm.</target>
+        <target xml:lang="zh-CN" state="translated">假定所有字符的宽度都相同。这是快速算法。</target>
       </trans-unit>
       <trans-unit id="wrappingAlgorithm.dom">
         <source xml:lang="en">Delegates wrapping points computation to the DOM. This is a slow algorithm, that might cause freezes for large files.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Delegates wrapping points computation to the DOM. This is a slow algorithm, that might cause freezes for large files.</target>
+        <target xml:lang="zh-CN" state="translated">将包装点计算委托到 DOM。这是一个速度较慢的算法，可能会导致大型文件冻结。</target>
       </trans-unit>
       <trans-unit id="wrappingAlgorithm">
         <source xml:lang="en">Controls the algorithm that computes wrapping points.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Controls the algorithm that computes wrapping points.</target>
+        <target xml:lang="zh-CN" state="translated">控制用于计算环绕点的算法。</target>
       </trans-unit>
     </body>
   </file>
@@ -1268,19 +1268,19 @@
     <body>
       <trans-unit id="label.close">
         <source xml:lang="en">Close</source>
-        <target xml:lang="zh-CN" state="needs-translation">Close</target>
+        <target xml:lang="zh-CN" state="translated">关上</target>
       </trans-unit>
       <trans-unit id="no_lines">
         <source xml:lang="en">no lines</source>
-        <target xml:lang="zh-CN" state="needs-translation">no lines</target>
+        <target xml:lang="zh-CN" state="translated">无线条</target>
       </trans-unit>
       <trans-unit id="one_line">
         <source xml:lang="en">1 line</source>
-        <target xml:lang="zh-CN" state="needs-translation">1 line</target>
+        <target xml:lang="zh-CN" state="translated">1行</target>
       </trans-unit>
       <trans-unit id="more_lines">
         <source xml:lang="en">{0} lines</source>
-        <target xml:lang="zh-CN" state="needs-translation">{0} lines</target>
+        <target xml:lang="zh-CN" state="translated">{0} 线条</target>
       </trans-unit>
       <trans-unit id="header">
         <source xml:lang="en">Difference {0} of {1}: original {2}, {3}, modified {4}, {5}</source>
@@ -1290,31 +1290,31 @@ That encodes that at original line 154 (which is now line 159), 12 lines were re
 Variables 0 and 1 refer to the diff index out of total number of diffs.
 Variables 2 and 4 will be numbers (a line number).
 Variables 3 and 5 will be "no lines", "1 line" or "X lines", localized separately.</note>
-        <target xml:lang="zh-CN" state="needs-translation">Difference {0} of {1}: original {2}, {3}, modified {4}, {5}</target>
+        <target xml:lang="zh-CN" state="translated">： {0} 次数 {1}：原始 {2}, {3}、修改 {4}, {5}</target>
       </trans-unit>
       <trans-unit id="blankLine">
         <source xml:lang="en">blank</source>
-        <target xml:lang="zh-CN" state="needs-translation">blank</target>
+        <target xml:lang="zh-CN" state="translated">留</target>
       </trans-unit>
       <trans-unit id="equalLine">
         <source xml:lang="en">original {0}, modified {1}: {2}</source>
-        <target xml:lang="zh-CN" state="needs-translation">original {0}, modified {1}: {2}</target>
+        <target xml:lang="zh-CN" state="translated">源语言 {0}、修改 {1}: {2}</target>
       </trans-unit>
       <trans-unit id="insertLine">
         <source xml:lang="en">+ modified {0}: {1}</source>
-        <target xml:lang="zh-CN" state="needs-translation">+ modified {0}: {1}</target>
+        <target xml:lang="zh-CN" state="translated">+ 已修改 {0}: {1}</target>
       </trans-unit>
       <trans-unit id="deleteLine">
         <source xml:lang="en">- original {0}: {1}</source>
-        <target xml:lang="zh-CN" state="needs-translation">- original {0}: {1}</target>
+        <target xml:lang="zh-CN" state="translated">-原始 {0}: {1}</target>
       </trans-unit>
       <trans-unit id="editor.action.diffReview.next">
         <source xml:lang="en">Go to Next Difference</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to Next Difference</target>
+        <target xml:lang="zh-CN" state="translated">转到下一个差异</target>
       </trans-unit>
       <trans-unit id="editor.action.diffReview.prev">
         <source xml:lang="en">Go to Previous Difference</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to Previous Difference</target>
+        <target xml:lang="zh-CN" state="translated">转到上一个差异</target>
       </trans-unit>
     </body>
   </file>
@@ -1322,7 +1322,7 @@ Variables 3 and 5 will be "no lines", "1 line" or "X lines", localized separatel
     <body>
       <trans-unit id="accessibilityOffAriaLabel">
         <source xml:lang="en">The editor is not accessible at this time. Press Alt+F1 for options.</source>
-        <target xml:lang="zh-CN" state="needs-translation">The editor is not accessible at this time. Press Alt+F1 for options.</target>
+        <target xml:lang="zh-CN" state="translated">此时无法访问编辑器。按 Alt + F1 可查看选项。</target>
       </trans-unit>
     </body>
   </file>
