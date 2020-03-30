@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="src/vs/platform/request/common/request" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="httpConfigurationTitle">
+      <trans-unit id="httpConfigurationTitle" approved="yes">
         <source xml:lang="en">HTTP</source>
-        <target xml:lang="hi" state="translated">Testing Frist</target>
+        <target xml:lang="hi" state="final">Testing Frist</target>
         <alt-trans>
           <target xml:lang="hi">Testing translated by Meg_GAR</target>
         </alt-trans>
