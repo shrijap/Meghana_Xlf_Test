@@ -3,7 +3,7 @@
   <file original="src/vs/editor/common/standaloneStrings" source-language="en" datatype="plaintext">
     <body>
       <trans-unit id="noSelection">
-        <source xml:lang="en">No selection</source>
+        <source xml:lang="en">XML Web service</source>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
